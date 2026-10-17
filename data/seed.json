@@ -1,0 +1,13007 @@
+{
+ "nodes": {
+  "Person": [
+   {
+    "id": "PER-001",
+    "name": "Aarav Haddad",
+    "role": "Engineering Manager",
+    "active": true
+   },
+   {
+    "id": "PER-002",
+    "name": "Bianca Costa",
+    "role": "Software Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-003",
+    "name": "Chen Ortiz",
+    "role": "Software Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-004",
+    "name": "Diego Park",
+    "role": "SRE",
+    "active": true
+   },
+   {
+    "id": "PER-005",
+    "name": "Elena Joshi",
+    "role": "Senior Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-006",
+    "name": "Farid Alvarez",
+    "role": "Senior Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-007",
+    "name": "Grace Brooks",
+    "role": "Senior Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-008",
+    "name": "Hiro Singh",
+    "role": "Software Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-009",
+    "name": "Anita Rao",
+    "role": "Engineering Manager",
+    "active": true
+   },
+   {
+    "id": "PER-010",
+    "name": "Isla Dubois",
+    "role": "Software Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-011",
+    "name": "Jamal Iyer",
+    "role": "Staff Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-012",
+    "name": "Kiran Kim",
+    "role": "Software Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-013",
+    "name": "Lena Patel",
+    "role": "Software Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-014",
+    "name": "Mateo Novak",
+    "role": "Software Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-015",
+    "name": "Nia Reyes",
+    "role": "Senior Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-016",
+    "name": "Pooja Hughes",
+    "role": "Engineering Manager",
+    "active": true
+   },
+   {
+    "id": "PER-017",
+    "name": "Quinn Schmidt",
+    "role": "Senior Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-018",
+    "name": "Rafael Moreno",
+    "role": "Software Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-019",
+    "name": "Sofia Ahmed",
+    "role": "Senior Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-020",
+    "name": "Tariq Weber",
+    "role": "Staff Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-021",
+    "name": "Uma Nguyen",
+    "role": "Senior Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-022",
+    "name": "Victor Petrov",
+    "role": "Staff Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-023",
+    "name": "Sam Okafor",
+    "role": "Engineering Manager",
+    "active": true
+   },
+   {
+    "id": "PER-024",
+    "name": "Tom Fischer",
+    "role": "SRE",
+    "active": false
+   },
+   {
+    "id": "PER-025",
+    "name": "Wen Dasgupta",
+    "role": "Software Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-026",
+    "name": "Ximena Tanaka",
+    "role": "Senior Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-027",
+    "name": "Yusuf Ibrahim",
+    "role": "Staff Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-028",
+    "name": "Zara Sato",
+    "role": "SRE",
+    "active": true
+   },
+   {
+    "id": "PER-029",
+    "name": "Arjun Bauer",
+    "role": "SRE",
+    "active": true
+   },
+   {
+    "id": "PER-030",
+    "name": "Beth Almeida",
+    "role": "Senior Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-031",
+    "name": "Priya Nair",
+    "role": "Engineering Manager",
+    "active": true
+   },
+   {
+    "id": "PER-032",
+    "name": "Marcus Webb",
+    "role": "Senior Engineer",
+    "active": false
+   },
+   {
+    "id": "PER-033",
+    "name": "Dev Malhotra",
+    "role": "SRE",
+    "active": true
+   },
+   {
+    "id": "PER-034",
+    "name": "Hana Roy",
+    "role": "Engineering Manager",
+    "active": true
+   },
+   {
+    "id": "PER-035",
+    "name": "Ivan Lindqvist",
+    "role": "Software Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-036",
+    "name": "Julia Kapoor",
+    "role": "Software Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-037",
+    "name": "Karan Khan",
+    "role": "Staff Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-038",
+    "name": "Leila Rossi",
+    "role": "Software Engineer",
+    "active": true
+   },
+   {
+    "id": "PER-039",
+    "name": "Mohan Yilmaz",
+    "role": "SRE",
+    "active": true
+   },
+   {
+    "id": "PER-040",
+    "name": "Nadia Verma",
+    "role": "SRE",
+    "active": true
+   }
+  ],
+  "Team": [
+   {
+    "id": "team-payments",
+    "name": "Payments Core"
+   },
+   {
+    "id": "team-ledger",
+    "name": "Ledger & Settlement"
+   },
+   {
+    "id": "team-risk",
+    "name": "Risk & Fraud"
+   },
+   {
+    "id": "team-platform",
+    "name": "Platform & Infra"
+   },
+   {
+    "id": "team-notifications",
+    "name": "Notifications"
+   },
+   {
+    "id": "team-merchant",
+    "name": "Merchant Experience"
+   }
+  ],
+  "Service": [
+   {
+    "id": "svc-payments-api",
+    "name": "payments-api",
+    "tier": 1,
+    "topic": "payment-routing"
+   },
+   {
+    "id": "svc-retry-engine",
+    "name": "retry-engine",
+    "tier": 1,
+    "topic": "payment-retries"
+   },
+   {
+    "id": "svc-ledger",
+    "name": "ledger",
+    "tier": 1,
+    "topic": "ledger-schema"
+   },
+   {
+    "id": "svc-settlement",
+    "name": "settlement",
+    "tier": 2,
+    "topic": "settlement-reconciliation"
+   },
+   {
+    "id": "svc-fraud-engine",
+    "name": "fraud-engine",
+    "tier": 1,
+    "topic": "fraud-rules"
+   },
+   {
+    "id": "svc-risk-scoring",
+    "name": "risk-scoring",
+    "tier": 2,
+    "topic": "risk-scoring"
+   },
+   {
+    "id": "svc-auth-service",
+    "name": "auth-service",
+    "tier": 1,
+    "topic": "authentication"
+   },
+   {
+    "id": "svc-api-gateway",
+    "name": "api-gateway",
+    "tier": 1,
+    "topic": "rate-limiting"
+   },
+   {
+    "id": "svc-notifications",
+    "name": "notifications",
+    "tier": 2,
+    "topic": "notification-queue"
+   },
+   {
+    "id": "svc-email-sender",
+    "name": "email-sender",
+    "tier": 3,
+    "topic": "notification-templates"
+   },
+   {
+    "id": "svc-merchant-dashboard",
+    "name": "merchant-dashboard",
+    "tier": 2,
+    "topic": "merchant-onboarding"
+   },
+   {
+    "id": "svc-webhooks",
+    "name": "webhooks",
+    "tier": 2,
+    "topic": "webhook-delivery"
+   }
+  ],
+  "Project": [
+   {
+    "id": "prj-postgres-migration",
+    "name": "Postgres Migration",
+    "status": "paused"
+   },
+   {
+    "id": "prj-auth-v2-rollout",
+    "name": "Auth v2 Rollout",
+    "status": "completed"
+   },
+   {
+    "id": "prj-sqs-notification-queue",
+    "name": "SQS Notification Queue",
+    "status": "active"
+   },
+   {
+    "id": "prj-fraud-rules-v3",
+    "name": "Fraud Rules v3",
+    "status": "active"
+   }
+  ],
+  "Document": [
+   {
+    "id": "DOC-001",
+    "date": "2025-03-10",
+    "title": "RFC-012: Migrate Ledger from MySQL to Postgres",
+    "kind": "rfc",
+    "status": "outdated"
+   },
+   {
+    "id": "DOC-002",
+    "date": "2026-01-20",
+    "title": "Postmortem: Ledger Postgres migration rollback",
+    "kind": "postmortem",
+    "status": "current"
+   },
+   {
+    "id": "DOC-003",
+    "date": "2024-06-05",
+    "title": "Auth RFC v1: Session tokens for internal services",
+    "kind": "rfc",
+    "status": "outdated"
+   },
+   {
+    "id": "DOC-004",
+    "date": "2026-02-12",
+    "title": "Auth RFC v2: OAuth2 with short-lived JWTs",
+    "kind": "rfc",
+    "status": "current"
+   },
+   {
+    "id": "DOC-005",
+    "date": "2025-08-04",
+    "title": "RFC-021: Payment retry policy (exponential backoff)",
+    "kind": "rfc",
+    "status": "current"
+   },
+   {
+    "id": "DOC-006",
+    "date": "2025-02-10",
+    "title": "Design: Kafka-backed notification pipeline",
+    "kind": "rfc",
+    "status": "outdated"
+   },
+   {
+    "id": "DOC-007",
+    "date": "2026-05-06",
+    "title": "RFC-034: Move notifications to SQS",
+    "kind": "rfc",
+    "status": "current"
+   },
+   {
+    "id": "DOC-008",
+    "date": "2025-06-18",
+    "title": "Notes: Notification template engine internals",
+    "kind": "notes",
+    "status": "current"
+   },
+   {
+    "id": "DOC-009",
+    "date": "2025-11-03",
+    "title": "Notes: Fraud vendor evaluation (build vs buy)",
+    "kind": "notes",
+    "status": "current"
+   },
+   {
+    "id": "DOC-010",
+    "date": "2025-09-02",
+    "title": "Runbook: Nightly settlement batch and reconciliation",
+    "kind": "notes",
+    "status": "current"
+   },
+   {
+    "id": "DOC-011",
+    "date": "2025-07-21",
+    "title": "Runbook: HSM key rotation",
+    "kind": "notes",
+    "status": "current"
+   },
+   {
+    "id": "DOC-012",
+    "date": "2025-04-28",
+    "title": "RFC: Payment Retries",
+    "kind": "rfc",
+    "status": "current"
+   },
+   {
+    "id": "DOC-013",
+    "date": "2026-04-24",
+    "title": "Notes: Idempotency",
+    "kind": "notes",
+    "status": "current"
+   },
+   {
+    "id": "DOC-014",
+    "date": "2026-01-23",
+    "title": "Postmortem: Payment Routing",
+    "kind": "postmortem",
+    "status": "current"
+   },
+   {
+    "id": "DOC-015",
+    "date": "2026-01-13",
+    "title": "RFC: Ledger Schema",
+    "kind": "rfc",
+    "status": "current"
+   },
+   {
+    "id": "DOC-016",
+    "date": "2025-10-15",
+    "title": "Notes: Postgres Migration",
+    "kind": "notes",
+    "status": "current"
+   },
+   {
+    "id": "DOC-017",
+    "date": "2025-03-29",
+    "title": "RFC: Fraud Rules",
+    "kind": "rfc",
+    "status": "current"
+   },
+   {
+    "id": "DOC-018",
+    "date": "2025-07-09",
+    "title": "Notes: Risk Scoring",
+    "kind": "notes",
+    "status": "current"
+   },
+   {
+    "id": "DOC-019",
+    "date": "2025-09-22",
+    "title": "Postmortem: Chargebacks",
+    "kind": "postmortem",
+    "status": "current"
+   },
+   {
+    "id": "DOC-020",
+    "date": "2026-02-07",
+    "title": "RFC: Authentication",
+    "kind": "rfc",
+    "status": "current"
+   },
+   {
+    "id": "DOC-021",
+    "date": "2026-08-08",
+    "title": "Notes: Rate Limiting",
+    "kind": "notes",
+    "status": "current"
+   },
+   {
+    "id": "DOC-022",
+    "date": "2025-12-13",
+    "title": "RFC: Incident Response",
+    "kind": "rfc",
+    "status": "current"
+   },
+   {
+    "id": "DOC-023",
+    "date": "2025-03-13",
+    "title": "Notes: Notification Queue",
+    "kind": "notes",
+    "status": "current"
+   },
+   {
+    "id": "DOC-024",
+    "date": "2025-02-16",
+    "title": "RFC: Email Deliverability",
+    "kind": "rfc",
+    "status": "current"
+   },
+   {
+    "id": "DOC-025",
+    "date": "2026-03-01",
+    "title": "Notes: Merchant Onboarding",
+    "kind": "notes",
+    "status": "current"
+   }
+  ],
+  "Ticket": [
+   {
+    "id": "TCK-001",
+    "date": "2025-05-14",
+    "title": "Enforce idempotency keys on POST /payments",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-002",
+    "date": "2026-04-15",
+    "title": "Deprecate webhook v1 payload format",
+    "status": "in_progress"
+   },
+   {
+    "id": "TCK-003",
+    "date": "2025-08-19",
+    "title": "Document payment retries behaviour",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-004",
+    "date": "2025-06-06",
+    "title": "Add metrics for ledger schema",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-005",
+    "date": "2025-06-05",
+    "title": "Document fraud rules behaviour",
+    "status": "in_progress"
+   },
+   {
+    "id": "TCK-006",
+    "date": "2025-06-27",
+    "title": "Upgrade dependencies for authentication",
+    "status": "in_progress"
+   },
+   {
+    "id": "TCK-007",
+    "date": "2026-08-04",
+    "title": "Upgrade dependencies for incident response",
+    "status": "open"
+   },
+   {
+    "id": "TCK-008",
+    "date": "2025-11-11",
+    "title": "Fix timeout in email deliverability",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-009",
+    "date": "2026-06-18",
+    "title": "Investigate flaky dashboard performance alerts",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-010",
+    "date": "2026-02-01",
+    "title": "Upgrade dependencies for idempotency",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-011",
+    "date": "2026-05-30",
+    "title": "Investigate flaky postgres migration alerts",
+    "status": "open"
+   },
+   {
+    "id": "TCK-012",
+    "date": "2025-09-18",
+    "title": "Document risk scoring behaviour",
+    "status": "open"
+   },
+   {
+    "id": "TCK-013",
+    "date": "2025-05-23",
+    "title": "Add metrics for rate limiting",
+    "status": "in_progress"
+   },
+   {
+    "id": "TCK-014",
+    "date": "2025-11-30",
+    "title": "Fix timeout in notification queue",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-015",
+    "date": "2025-09-02",
+    "title": "Investigate flaky merchant onboarding alerts",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-016",
+    "date": "2025-03-16",
+    "title": "Add metrics for reporting exports",
+    "status": "open"
+   },
+   {
+    "id": "TCK-017",
+    "date": "2025-09-15",
+    "title": "Refactor payment routing module",
+    "status": "in_progress"
+   },
+   {
+    "id": "TCK-018",
+    "date": "2026-03-07",
+    "title": "Add metrics for settlement reconciliation",
+    "status": "open"
+   },
+   {
+    "id": "TCK-019",
+    "date": "2026-05-08",
+    "title": "Upgrade dependencies for chargebacks",
+    "status": "open"
+   },
+   {
+    "id": "TCK-020",
+    "date": "2026-03-03",
+    "title": "Load test hsm key rotation",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-021",
+    "date": "2025-07-30",
+    "title": "Add metrics for notification templates",
+    "status": "in_progress"
+   },
+   {
+    "id": "TCK-022",
+    "date": "2025-04-02",
+    "title": "Fix timeout in webhook delivery",
+    "status": "open"
+   },
+   {
+    "id": "TCK-023",
+    "date": "2025-09-14",
+    "title": "Add metrics for payment retries",
+    "status": "in_progress"
+   },
+   {
+    "id": "TCK-024",
+    "date": "2026-02-07",
+    "title": "Investigate flaky ledger schema alerts",
+    "status": "in_progress"
+   },
+   {
+    "id": "TCK-025",
+    "date": "2026-08-07",
+    "title": "Load test fraud rules",
+    "status": "in_progress"
+   },
+   {
+    "id": "TCK-026",
+    "date": "2026-07-24",
+    "title": "Investigate flaky authentication alerts",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-027",
+    "date": "2026-06-19",
+    "title": "Investigate flaky incident response alerts",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-028",
+    "date": "2025-09-24",
+    "title": "Document email deliverability behaviour",
+    "status": "open"
+   },
+   {
+    "id": "TCK-029",
+    "date": "2025-08-12",
+    "title": "Load test dashboard performance",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-030",
+    "date": "2025-12-04",
+    "title": "Upgrade dependencies for idempotency",
+    "status": "open"
+   },
+   {
+    "id": "TCK-031",
+    "date": "2025-08-21",
+    "title": "Document postgres migration behaviour",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-032",
+    "date": "2026-01-28",
+    "title": "Refactor risk scoring module",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-033",
+    "date": "2025-01-23",
+    "title": "Load test rate limiting",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-034",
+    "date": "2026-08-04",
+    "title": "Add metrics for notification queue",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-035",
+    "date": "2026-06-16",
+    "title": "Fix timeout in merchant onboarding",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-036",
+    "date": "2026-03-24",
+    "title": "Upgrade dependencies for reporting exports",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-037",
+    "date": "2025-10-10",
+    "title": "Add metrics for payment routing",
+    "status": "in_progress"
+   },
+   {
+    "id": "TCK-038",
+    "date": "2025-04-02",
+    "title": "Load test settlement reconciliation",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-039",
+    "date": "2025-06-15",
+    "title": "Fix timeout in chargebacks",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-040",
+    "date": "2025-08-18",
+    "title": "Load test hsm key rotation",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-041",
+    "date": "2026-03-07",
+    "title": "Document notification templates behaviour",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-042",
+    "date": "2025-07-15",
+    "title": "Fix timeout in webhook delivery",
+    "status": "open"
+   },
+   {
+    "id": "TCK-043",
+    "date": "2025-10-15",
+    "title": "Add metrics for payment retries",
+    "status": "open"
+   },
+   {
+    "id": "TCK-044",
+    "date": "2026-05-01",
+    "title": "Refactor ledger schema module",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-045",
+    "date": "2025-07-31",
+    "title": "Fix timeout in fraud rules",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-046",
+    "date": "2026-02-28",
+    "title": "Load test authentication",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-047",
+    "date": "2025-10-13",
+    "title": "Investigate flaky incident response alerts",
+    "status": "open"
+   },
+   {
+    "id": "TCK-048",
+    "date": "2026-06-22",
+    "title": "Investigate flaky email deliverability alerts",
+    "status": "in_progress"
+   },
+   {
+    "id": "TCK-049",
+    "date": "2026-07-20",
+    "title": "Load test dashboard performance",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-050",
+    "date": "2025-05-22",
+    "title": "Load test idempotency",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-051",
+    "date": "2025-11-13",
+    "title": "Document postgres migration behaviour",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-052",
+    "date": "2026-08-20",
+    "title": "Refactor risk scoring module",
+    "status": "in_progress"
+   },
+   {
+    "id": "TCK-053",
+    "date": "2026-08-31",
+    "title": "Document rate limiting behaviour",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-054",
+    "date": "2026-05-14",
+    "title": "Upgrade dependencies for notification queue",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-055",
+    "date": "2025-04-20",
+    "title": "Upgrade dependencies for merchant onboarding",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-056",
+    "date": "2025-03-03",
+    "title": "Add metrics for reporting exports",
+    "status": "in_progress"
+   },
+   {
+    "id": "TCK-057",
+    "date": "2025-08-02",
+    "title": "Load test payment routing",
+    "status": "in_progress"
+   },
+   {
+    "id": "TCK-058",
+    "date": "2026-03-26",
+    "title": "Add metrics for settlement reconciliation",
+    "status": "closed"
+   },
+   {
+    "id": "TCK-059",
+    "date": "2026-08-08",
+    "title": "Add metrics for chargebacks",
+    "status": "open"
+   },
+   {
+    "id": "TCK-060",
+    "date": "2026-04-13",
+    "title": "Document hsm key rotation behaviour",
+    "status": "in_progress"
+   }
+  ],
+  "Message": [
+   {
+    "id": "MSG-001",
+    "date": "2026-01-22",
+    "channel": "#postgres-migration",
+    "text": "Decision: we are rolling back the Postgres migration. Staying on MySQL 8 for the ledger."
+   },
+   {
+    "id": "MSG-002",
+    "date": "2026-03-09",
+    "channel": "#rate-limiting",
+    "text": "Decision: per-merchant rate limits go live on the gateway next sprint."
+   },
+   {
+    "id": "MSG-003",
+    "date": "2026-04-20",
+    "channel": "#payment-retries",
+    "text": "Question about payment retries: who last touched this?"
+   },
+   {
+    "id": "MSG-004",
+    "date": "2026-05-26",
+    "channel": "#risk-scoring",
+    "text": "Postmortem action item for risk scoring is done."
+   },
+   {
+    "id": "MSG-005",
+    "date": "2025-12-24",
+    "channel": "#notification-templates",
+    "text": "Shipped the notification templates fix to prod, watching dashboards."
+   },
+   {
+    "id": "MSG-006",
+    "date": "2025-06-18",
+    "channel": "#idempotency",
+    "text": "Postmortem action item for idempotency is done."
+   },
+   {
+    "id": "MSG-007",
+    "date": "2026-03-08",
+    "channel": "#chargebacks",
+    "text": "Shipped the chargebacks fix to prod, watching dashboards."
+   },
+   {
+    "id": "MSG-008",
+    "date": "2026-02-17",
+    "channel": "#email-deliverability",
+    "text": "Anyone looked at email deliverability lately? Seeing odd behaviour."
+   },
+   {
+    "id": "MSG-009",
+    "date": "2026-01-10",
+    "channel": "#payment-routing",
+    "text": "Question about payment routing: who last touched this?"
+   },
+   {
+    "id": "MSG-010",
+    "date": "2026-07-28",
+    "channel": "#authentication",
+    "text": "Postmortem action item for authentication is done."
+   },
+   {
+    "id": "MSG-011",
+    "date": "2025-12-25",
+    "channel": "#merchant-onboarding",
+    "text": "Planning merchant onboarding work for next sprint, thoughts?"
+   },
+   {
+    "id": "MSG-012",
+    "date": "2026-07-15",
+    "channel": "#ledger-schema",
+    "text": "Anyone looked at ledger schema lately? Seeing odd behaviour."
+   },
+   {
+    "id": "MSG-013",
+    "date": "2025-06-02",
+    "channel": "#rate-limiting",
+    "text": "Reminder: rate limiting runbook needs a refresh."
+   },
+   {
+    "id": "MSG-014",
+    "date": "2025-12-15",
+    "channel": "#webhook-delivery",
+    "text": "Shipped the webhook delivery fix to prod, watching dashboards."
+   },
+   {
+    "id": "MSG-015",
+    "date": "2026-05-11",
+    "channel": "#postgres-migration",
+    "text": "Anyone looked at postgres migration lately? Seeing odd behaviour."
+   },
+   {
+    "id": "MSG-016",
+    "date": "2025-03-26",
+    "channel": "#hsm-key-rotation",
+    "text": "Anyone looked at hsm key rotation lately? Seeing odd behaviour."
+   },
+   {
+    "id": "MSG-017",
+    "date": "2025-02-04",
+    "channel": "#dashboard-performance",
+    "text": "Can someone review my PR on dashboard performance?"
+   },
+   {
+    "id": "MSG-018",
+    "date": "2025-08-26",
+    "channel": "#settlement-reconciliation",
+    "text": "Reminder: settlement reconciliation runbook needs a refresh."
+   },
+   {
+    "id": "MSG-019",
+    "date": "2026-09-28",
+    "channel": "#incident-response",
+    "text": "Heads up: changing how we handle incident response next week."
+   },
+   {
+    "id": "MSG-020",
+    "date": "2025-02-10",
+    "channel": "#reporting-exports",
+    "text": "Question about reporting exports: who last touched this?"
+   },
+   {
+    "id": "MSG-021",
+    "date": "2025-04-02",
+    "channel": "#fraud-rules",
+    "text": "Postmortem action item for fraud rules is done."
+   },
+   {
+    "id": "MSG-022",
+    "date": "2026-01-05",
+    "channel": "#notification-queue",
+    "text": "Planning notification queue work for next sprint, thoughts?"
+   },
+   {
+    "id": "MSG-023",
+    "date": "2026-05-31",
+    "channel": "#payment-retries",
+    "text": "Heads up: changing how we handle payment retries next week."
+   },
+   {
+    "id": "MSG-024",
+    "date": "2026-04-05",
+    "channel": "#risk-scoring",
+    "text": "Can someone review my PR on risk scoring?"
+   },
+   {
+    "id": "MSG-025",
+    "date": "2026-05-25",
+    "channel": "#notification-templates",
+    "text": "Reminder: notification templates runbook needs a refresh."
+   },
+   {
+    "id": "MSG-026",
+    "date": "2025-09-23",
+    "channel": "#idempotency",
+    "text": "Heads up: changing how we handle idempotency next week."
+   },
+   {
+    "id": "MSG-027",
+    "date": "2026-02-07",
+    "channel": "#chargebacks",
+    "text": "Shipped the chargebacks fix to prod, watching dashboards."
+   },
+   {
+    "id": "MSG-028",
+    "date": "2025-08-20",
+    "channel": "#email-deliverability",
+    "text": "Shipped the email deliverability fix to prod, watching dashboards."
+   },
+   {
+    "id": "MSG-029",
+    "date": "2026-06-28",
+    "channel": "#payment-routing",
+    "text": "Postmortem action item for payment routing is done."
+   },
+   {
+    "id": "MSG-030",
+    "date": "2026-05-17",
+    "channel": "#authentication",
+    "text": "Reminder: authentication runbook needs a refresh."
+   },
+   {
+    "id": "MSG-031",
+    "date": "2025-09-21",
+    "channel": "#merchant-onboarding",
+    "text": "Question about merchant onboarding: who last touched this?"
+   },
+   {
+    "id": "MSG-032",
+    "date": "2026-08-01",
+    "channel": "#ledger-schema",
+    "text": "Shipped the ledger schema fix to prod, watching dashboards."
+   },
+   {
+    "id": "MSG-033",
+    "date": "2025-05-18",
+    "channel": "#rate-limiting",
+    "text": "Postmortem action item for rate limiting is done."
+   },
+   {
+    "id": "MSG-034",
+    "date": "2026-05-25",
+    "channel": "#webhook-delivery",
+    "text": "Question about webhook delivery: who last touched this?"
+   },
+   {
+    "id": "MSG-035",
+    "date": "2025-08-01",
+    "channel": "#postgres-migration",
+    "text": "Question about postgres migration: who last touched this?"
+   },
+   {
+    "id": "MSG-036",
+    "date": "2025-03-02",
+    "channel": "#hsm-key-rotation",
+    "text": "Anyone looked at hsm key rotation lately? Seeing odd behaviour."
+   },
+   {
+    "id": "MSG-037",
+    "date": "2025-04-30",
+    "channel": "#dashboard-performance",
+    "text": "Anyone looked at dashboard performance lately? Seeing odd behaviour."
+   },
+   {
+    "id": "MSG-038",
+    "date": "2025-03-08",
+    "channel": "#settlement-reconciliation",
+    "text": "Question about settlement reconciliation: who last touched this?"
+   },
+   {
+    "id": "MSG-039",
+    "date": "2026-03-01",
+    "channel": "#incident-response",
+    "text": "Reminder: incident response runbook needs a refresh."
+   },
+   {
+    "id": "MSG-040",
+    "date": "2025-06-16",
+    "channel": "#reporting-exports",
+    "text": "Question about reporting exports: who last touched this?"
+   },
+   {
+    "id": "MSG-041",
+    "date": "2026-04-21",
+    "channel": "#fraud-rules",
+    "text": "Reminder: fraud rules runbook needs a refresh."
+   },
+   {
+    "id": "MSG-042",
+    "date": "2025-03-17",
+    "channel": "#notification-queue",
+    "text": "Heads up: changing how we handle notification queue next week."
+   },
+   {
+    "id": "MSG-043",
+    "date": "2025-09-17",
+    "channel": "#payment-retries",
+    "text": "Can someone review my PR on payment retries?"
+   },
+   {
+    "id": "MSG-044",
+    "date": "2026-05-11",
+    "channel": "#risk-scoring",
+    "text": "Question about risk scoring: who last touched this?"
+   },
+   {
+    "id": "MSG-045",
+    "date": "2025-03-28",
+    "channel": "#notification-templates",
+    "text": "Postmortem action item for notification templates is done."
+   },
+   {
+    "id": "MSG-046",
+    "date": "2025-05-12",
+    "channel": "#idempotency",
+    "text": "Postmortem action item for idempotency is done."
+   },
+   {
+    "id": "MSG-047",
+    "date": "2025-03-17",
+    "channel": "#chargebacks",
+    "text": "Can someone review my PR on chargebacks?"
+   },
+   {
+    "id": "MSG-048",
+    "date": "2026-05-09",
+    "channel": "#email-deliverability",
+    "text": "Question about email deliverability: who last touched this?"
+   },
+   {
+    "id": "MSG-049",
+    "date": "2026-04-08",
+    "channel": "#payment-routing",
+    "text": "Heads up: changing how we handle payment routing next week."
+   },
+   {
+    "id": "MSG-050",
+    "date": "2025-02-10",
+    "channel": "#authentication",
+    "text": "Heads up: changing how we handle authentication next week."
+   },
+   {
+    "id": "MSG-051",
+    "date": "2026-08-28",
+    "channel": "#merchant-onboarding",
+    "text": "Anyone looked at merchant onboarding lately? Seeing odd behaviour."
+   },
+   {
+    "id": "MSG-052",
+    "date": "2026-09-06",
+    "channel": "#ledger-schema",
+    "text": "Planning ledger schema work for next sprint, thoughts?"
+   },
+   {
+    "id": "MSG-053",
+    "date": "2026-01-06",
+    "channel": "#rate-limiting",
+    "text": "Planning rate limiting work for next sprint, thoughts?"
+   },
+   {
+    "id": "MSG-054",
+    "date": "2026-03-12",
+    "channel": "#webhook-delivery",
+    "text": "Reminder: webhook delivery runbook needs a refresh."
+   },
+   {
+    "id": "MSG-055",
+    "date": "2025-12-03",
+    "channel": "#postgres-migration",
+    "text": "Question about postgres migration: who last touched this?"
+   },
+   {
+    "id": "MSG-056",
+    "date": "2026-07-24",
+    "channel": "#hsm-key-rotation",
+    "text": "Reminder: hsm key rotation runbook needs a refresh."
+   },
+   {
+    "id": "MSG-057",
+    "date": "2026-01-20",
+    "channel": "#dashboard-performance",
+    "text": "Reminder: dashboard performance runbook needs a refresh."
+   },
+   {
+    "id": "MSG-058",
+    "date": "2026-07-31",
+    "channel": "#settlement-reconciliation",
+    "text": "Can someone review my PR on settlement reconciliation?"
+   },
+   {
+    "id": "MSG-059",
+    "date": "2025-05-19",
+    "channel": "#incident-response",
+    "text": "Anyone looked at incident response lately? Seeing odd behaviour."
+   },
+   {
+    "id": "MSG-060",
+    "date": "2025-06-26",
+    "channel": "#reporting-exports",
+    "text": "Question about reporting exports: who last touched this?"
+   },
+   {
+    "id": "MSG-061",
+    "date": "2025-05-11",
+    "channel": "#fraud-rules",
+    "text": "Reminder: fraud rules runbook needs a refresh."
+   },
+   {
+    "id": "MSG-062",
+    "date": "2025-11-09",
+    "channel": "#notification-queue",
+    "text": "Question about notification queue: who last touched this?"
+   },
+   {
+    "id": "MSG-063",
+    "date": "2026-08-02",
+    "channel": "#payment-retries",
+    "text": "Can someone review my PR on payment retries?"
+   },
+   {
+    "id": "MSG-064",
+    "date": "2025-10-24",
+    "channel": "#risk-scoring",
+    "text": "Planning risk scoring work for next sprint, thoughts?"
+   },
+   {
+    "id": "MSG-065",
+    "date": "2025-11-16",
+    "channel": "#notification-templates",
+    "text": "Reminder: notification templates runbook needs a refresh."
+   },
+   {
+    "id": "MSG-066",
+    "date": "2025-12-21",
+    "channel": "#idempotency",
+    "text": "Planning idempotency work for next sprint, thoughts?"
+   },
+   {
+    "id": "MSG-067",
+    "date": "2025-09-16",
+    "channel": "#chargebacks",
+    "text": "Planning chargebacks work for next sprint, thoughts?"
+   },
+   {
+    "id": "MSG-068",
+    "date": "2026-05-14",
+    "channel": "#email-deliverability",
+    "text": "Planning email deliverability work for next sprint, thoughts?"
+   },
+   {
+    "id": "MSG-069",
+    "date": "2026-06-06",
+    "channel": "#payment-routing",
+    "text": "Anyone looked at payment routing lately? Seeing odd behaviour."
+   },
+   {
+    "id": "MSG-070",
+    "date": "2026-04-10",
+    "channel": "#authentication",
+    "text": "Heads up: changing how we handle authentication next week."
+   },
+   {
+    "id": "MSG-071",
+    "date": "2025-04-01",
+    "channel": "#merchant-onboarding",
+    "text": "Reminder: merchant onboarding runbook needs a refresh."
+   },
+   {
+    "id": "MSG-072",
+    "date": "2025-12-17",
+    "channel": "#ledger-schema",
+    "text": "Planning ledger schema work for next sprint, thoughts?"
+   },
+   {
+    "id": "MSG-073",
+    "date": "2026-10-09",
+    "channel": "#rate-limiting",
+    "text": "Heads up: changing how we handle rate limiting next week."
+   },
+   {
+    "id": "MSG-074",
+    "date": "2026-04-04",
+    "channel": "#webhook-delivery",
+    "text": "Heads up: changing how we handle webhook delivery next week."
+   },
+   {
+    "id": "MSG-075",
+    "date": "2025-07-04",
+    "channel": "#postgres-migration",
+    "text": "Question about postgres migration: who last touched this?"
+   },
+   {
+    "id": "MSG-076",
+    "date": "2026-04-01",
+    "channel": "#hsm-key-rotation",
+    "text": "Can someone review my PR on hsm key rotation?"
+   },
+   {
+    "id": "MSG-077",
+    "date": "2025-07-13",
+    "channel": "#dashboard-performance",
+    "text": "Heads up: changing how we handle dashboard performance next week."
+   },
+   {
+    "id": "MSG-078",
+    "date": "2025-09-09",
+    "channel": "#settlement-reconciliation",
+    "text": "Reminder: settlement reconciliation runbook needs a refresh."
+   },
+   {
+    "id": "MSG-079",
+    "date": "2026-05-06",
+    "channel": "#incident-response",
+    "text": "Question about incident response: who last touched this?"
+   },
+   {
+    "id": "MSG-080",
+    "date": "2026-03-25",
+    "channel": "#reporting-exports",
+    "text": "Question about reporting exports: who last touched this?"
+   },
+   {
+    "id": "MSG-081",
+    "date": "2025-09-14",
+    "channel": "#fraud-rules",
+    "text": "Planning fraud rules work for next sprint, thoughts?"
+   },
+   {
+    "id": "MSG-082",
+    "date": "2025-10-23",
+    "channel": "#notification-queue",
+    "text": "Anyone looked at notification queue lately? Seeing odd behaviour."
+   },
+   {
+    "id": "MSG-083",
+    "date": "2025-11-04",
+    "channel": "#payment-retries",
+    "text": "Postmortem action item for payment retries is done."
+   },
+   {
+    "id": "MSG-084",
+    "date": "2025-06-04",
+    "channel": "#risk-scoring",
+    "text": "Heads up: changing how we handle risk scoring next week."
+   },
+   {
+    "id": "MSG-085",
+    "date": "2026-08-31",
+    "channel": "#notification-templates",
+    "text": "Shipped the notification templates fix to prod, watching dashboards."
+   },
+   {
+    "id": "MSG-086",
+    "date": "2025-12-15",
+    "channel": "#idempotency",
+    "text": "Planning idempotency work for next sprint, thoughts?"
+   },
+   {
+    "id": "MSG-087",
+    "date": "2025-10-21",
+    "channel": "#chargebacks",
+    "text": "Can someone review my PR on chargebacks?"
+   },
+   {
+    "id": "MSG-088",
+    "date": "2025-05-12",
+    "channel": "#email-deliverability",
+    "text": "Reminder: email deliverability runbook needs a refresh."
+   },
+   {
+    "id": "MSG-089",
+    "date": "2026-02-23",
+    "channel": "#payment-routing",
+    "text": "Anyone looked at payment routing lately? Seeing odd behaviour."
+   },
+   {
+    "id": "MSG-090",
+    "date": "2026-09-05",
+    "channel": "#authentication",
+    "text": "Planning authentication work for next sprint, thoughts?"
+   },
+   {
+    "id": "MSG-091",
+    "date": "2025-09-11",
+    "channel": "#merchant-onboarding",
+    "text": "Reminder: merchant onboarding runbook needs a refresh."
+   },
+   {
+    "id": "MSG-092",
+    "date": "2025-03-20",
+    "channel": "#ledger-schema",
+    "text": "Reminder: ledger schema runbook needs a refresh."
+   },
+   {
+    "id": "MSG-093",
+    "date": "2025-03-02",
+    "channel": "#rate-limiting",
+    "text": "Anyone looked at rate limiting lately? Seeing odd behaviour."
+   },
+   {
+    "id": "MSG-094",
+    "date": "2026-07-19",
+    "channel": "#webhook-delivery",
+    "text": "Can someone review my PR on webhook delivery?"
+   },
+   {
+    "id": "MSG-095",
+    "date": "2026-09-08",
+    "channel": "#postgres-migration",
+    "text": "Can someone review my PR on postgres migration?"
+   },
+   {
+    "id": "MSG-096",
+    "date": "2025-10-28",
+    "channel": "#hsm-key-rotation",
+    "text": "Anyone looked at hsm key rotation lately? Seeing odd behaviour."
+   },
+   {
+    "id": "MSG-097",
+    "date": "2026-04-15",
+    "channel": "#dashboard-performance",
+    "text": "Postmortem action item for dashboard performance is done."
+   },
+   {
+    "id": "MSG-098",
+    "date": "2026-01-17",
+    "channel": "#settlement-reconciliation",
+    "text": "Anyone looked at settlement reconciliation lately? Seeing odd behaviour."
+   },
+   {
+    "id": "MSG-099",
+    "date": "2026-04-25",
+    "channel": "#incident-response",
+    "text": "Heads up: changing how we handle incident response next week."
+   },
+   {
+    "id": "MSG-100",
+    "date": "2025-09-21",
+    "channel": "#reporting-exports",
+    "text": "Can someone review my PR on reporting exports?"
+   },
+   {
+    "id": "MSG-101",
+    "date": "2025-09-10",
+    "channel": "#fraud-rules",
+    "text": "Shipped the fraud rules fix to prod, watching dashboards."
+   },
+   {
+    "id": "MSG-102",
+    "date": "2025-05-28",
+    "channel": "#notification-queue",
+    "text": "Question about notification queue: who last touched this?"
+   },
+   {
+    "id": "MSG-103",
+    "date": "2026-01-16",
+    "channel": "#payment-retries",
+    "text": "Postmortem action item for payment retries is done."
+   },
+   {
+    "id": "MSG-104",
+    "date": "2026-03-22",
+    "channel": "#risk-scoring",
+    "text": "Heads up: changing how we handle risk scoring next week."
+   },
+   {
+    "id": "MSG-105",
+    "date": "2025-05-06",
+    "channel": "#notification-templates",
+    "text": "Reminder: notification templates runbook needs a refresh."
+   },
+   {
+    "id": "MSG-106",
+    "date": "2026-04-29",
+    "channel": "#idempotency",
+    "text": "Anyone looked at idempotency lately? Seeing odd behaviour."
+   },
+   {
+    "id": "MSG-107",
+    "date": "2025-05-05",
+    "channel": "#chargebacks",
+    "text": "Reminder: chargebacks runbook needs a refresh."
+   },
+   {
+    "id": "MSG-108",
+    "date": "2026-09-29",
+    "channel": "#email-deliverability",
+    "text": "Can someone review my PR on email deliverability?"
+   },
+   {
+    "id": "MSG-109",
+    "date": "2026-02-09",
+    "channel": "#payment-routing",
+    "text": "Question about payment routing: who last touched this?"
+   },
+   {
+    "id": "MSG-110",
+    "date": "2025-05-12",
+    "channel": "#authentication",
+    "text": "Postmortem action item for authentication is done."
+   },
+   {
+    "id": "MSG-111",
+    "date": "2026-02-27",
+    "channel": "#merchant-onboarding",
+    "text": "Planning merchant onboarding work for next sprint, thoughts?"
+   },
+   {
+    "id": "MSG-112",
+    "date": "2026-02-02",
+    "channel": "#ledger-schema",
+    "text": "Can someone review my PR on ledger schema?"
+   },
+   {
+    "id": "MSG-113",
+    "date": "2025-04-20",
+    "channel": "#rate-limiting",
+    "text": "Planning rate limiting work for next sprint, thoughts?"
+   },
+   {
+    "id": "MSG-114",
+    "date": "2025-03-17",
+    "channel": "#webhook-delivery",
+    "text": "Shipped the webhook delivery fix to prod, watching dashboards."
+   },
+   {
+    "id": "MSG-115",
+    "date": "2026-09-21",
+    "channel": "#postgres-migration",
+    "text": "Question about postgres migration: who last touched this?"
+   },
+   {
+    "id": "MSG-116",
+    "date": "2026-05-23",
+    "channel": "#hsm-key-rotation",
+    "text": "Postmortem action item for hsm key rotation is done."
+   },
+   {
+    "id": "MSG-117",
+    "date": "2025-05-12",
+    "channel": "#dashboard-performance",
+    "text": "Question about dashboard performance: who last touched this?"
+   },
+   {
+    "id": "MSG-118",
+    "date": "2026-09-30",
+    "channel": "#settlement-reconciliation",
+    "text": "Question about settlement reconciliation: who last touched this?"
+   },
+   {
+    "id": "MSG-119",
+    "date": "2026-01-09",
+    "channel": "#incident-response",
+    "text": "Anyone looked at incident response lately? Seeing odd behaviour."
+   },
+   {
+    "id": "MSG-120",
+    "date": "2025-02-15",
+    "channel": "#reporting-exports",
+    "text": "Heads up: changing how we handle reporting exports next week."
+   },
+   {
+    "id": "MSG-121",
+    "date": "2026-01-28",
+    "channel": "#fraud-rules",
+    "text": "Question about fraud rules: who last touched this?"
+   },
+   {
+    "id": "MSG-122",
+    "date": "2025-06-23",
+    "channel": "#notification-queue",
+    "text": "Can someone review my PR on notification queue?"
+   },
+   {
+    "id": "MSG-123",
+    "date": "2026-05-27",
+    "channel": "#payment-retries",
+    "text": "Reminder: payment retries runbook needs a refresh."
+   },
+   {
+    "id": "MSG-124",
+    "date": "2026-03-31",
+    "channel": "#risk-scoring",
+    "text": "Heads up: changing how we handle risk scoring next week."
+   },
+   {
+    "id": "MSG-125",
+    "date": "2025-03-02",
+    "channel": "#notification-templates",
+    "text": "Postmortem action item for notification templates is done."
+   },
+   {
+    "id": "MSG-126",
+    "date": "2025-08-12",
+    "channel": "#idempotency",
+    "text": "Question about idempotency: who last touched this?"
+   },
+   {
+    "id": "MSG-127",
+    "date": "2025-05-17",
+    "channel": "#chargebacks",
+    "text": "Anyone looked at chargebacks lately? Seeing odd behaviour."
+   },
+   {
+    "id": "MSG-128",
+    "date": "2026-07-14",
+    "channel": "#email-deliverability",
+    "text": "Postmortem action item for email deliverability is done."
+   },
+   {
+    "id": "MSG-129",
+    "date": "2026-02-25",
+    "channel": "#payment-routing",
+    "text": "Anyone looked at payment routing lately? Seeing odd behaviour."
+   },
+   {
+    "id": "MSG-130",
+    "date": "2025-12-01",
+    "channel": "#authentication",
+    "text": "Planning authentication work for next sprint, thoughts?"
+   },
+   {
+    "id": "MSG-131",
+    "date": "2026-03-05",
+    "channel": "#merchant-onboarding",
+    "text": "Anyone looked at merchant onboarding lately? Seeing odd behaviour."
+   },
+   {
+    "id": "MSG-132",
+    "date": "2026-04-07",
+    "channel": "#ledger-schema",
+    "text": "Heads up: changing how we handle ledger schema next week."
+   },
+   {
+    "id": "MSG-133",
+    "date": "2025-12-28",
+    "channel": "#rate-limiting",
+    "text": "Postmortem action item for rate limiting is done."
+   },
+   {
+    "id": "MSG-134",
+    "date": "2026-01-07",
+    "channel": "#webhook-delivery",
+    "text": "Shipped the webhook delivery fix to prod, watching dashboards."
+   },
+   {
+    "id": "MSG-135",
+    "date": "2025-04-30",
+    "channel": "#postgres-migration",
+    "text": "Can someone review my PR on postgres migration?"
+   },
+   {
+    "id": "MSG-136",
+    "date": "2026-05-05",
+    "channel": "#hsm-key-rotation",
+    "text": "Reminder: hsm key rotation runbook needs a refresh."
+   },
+   {
+    "id": "MSG-137",
+    "date": "2025-12-04",
+    "channel": "#dashboard-performance",
+    "text": "Can someone review my PR on dashboard performance?"
+   },
+   {
+    "id": "MSG-138",
+    "date": "2026-01-10",
+    "channel": "#settlement-reconciliation",
+    "text": "Heads up: changing how we handle settlement reconciliation next week."
+   },
+   {
+    "id": "MSG-139",
+    "date": "2026-01-27",
+    "channel": "#incident-response",
+    "text": "Question about incident response: who last touched this?"
+   },
+   {
+    "id": "MSG-140",
+    "date": "2026-09-15",
+    "channel": "#reporting-exports",
+    "text": "Planning reporting exports work for next sprint, thoughts?"
+   },
+   {
+    "id": "MSG-141",
+    "date": "2025-12-10",
+    "channel": "#fraud-rules",
+    "text": "Reminder: fraud rules runbook needs a refresh."
+   },
+   {
+    "id": "MSG-142",
+    "date": "2025-04-11",
+    "channel": "#notification-queue",
+    "text": "Can someone review my PR on notification queue?"
+   },
+   {
+    "id": "MSG-143",
+    "date": "2026-01-31",
+    "channel": "#payment-retries",
+    "text": "Question about payment retries: who last touched this?"
+   },
+   {
+    "id": "MSG-144",
+    "date": "2025-03-23",
+    "channel": "#risk-scoring",
+    "text": "Shipped the risk scoring fix to prod, watching dashboards."
+   },
+   {
+    "id": "MSG-145",
+    "date": "2025-06-17",
+    "channel": "#notification-templates",
+    "text": "Shipped the notification templates fix to prod, watching dashboards."
+   },
+   {
+    "id": "MSG-146",
+    "date": "2025-11-28",
+    "channel": "#idempotency",
+    "text": "Planning idempotency work for next sprint, thoughts?"
+   },
+   {
+    "id": "MSG-147",
+    "date": "2026-08-10",
+    "channel": "#chargebacks",
+    "text": "Planning chargebacks work for next sprint, thoughts?"
+   },
+   {
+    "id": "MSG-148",
+    "date": "2026-07-08",
+    "channel": "#email-deliverability",
+    "text": "Heads up: changing how we handle email deliverability next week."
+   },
+   {
+    "id": "MSG-149",
+    "date": "2026-01-21",
+    "channel": "#payment-routing",
+    "text": "Question about payment routing: who last touched this?"
+   },
+   {
+    "id": "MSG-150",
+    "date": "2025-06-04",
+    "channel": "#authentication",
+    "text": "Can someone review my PR on authentication?"
+   }
+  ],
+  "Topic": [
+   {
+    "id": "payment-retries",
+    "name": "payment-retries",
+    "team": "payments",
+    "service": "retry-engine"
+   },
+   {
+    "id": "idempotency",
+    "name": "idempotency",
+    "team": "payments",
+    "service": "payments-api"
+   },
+   {
+    "id": "payment-routing",
+    "name": "payment-routing",
+    "team": "payments",
+    "service": "payments-api"
+   },
+   {
+    "id": "ledger-schema",
+    "name": "ledger-schema",
+    "team": "ledger",
+    "service": "ledger"
+   },
+   {
+    "id": "postgres-migration",
+    "name": "postgres-migration",
+    "team": "ledger",
+    "service": "ledger"
+   },
+   {
+    "id": "settlement-reconciliation",
+    "name": "settlement-reconciliation",
+    "team": "ledger",
+    "service": "settlement"
+   },
+   {
+    "id": "fraud-rules",
+    "name": "fraud-rules",
+    "team": "risk",
+    "service": "fraud-engine"
+   },
+   {
+    "id": "risk-scoring",
+    "name": "risk-scoring",
+    "team": "risk",
+    "service": "risk-scoring"
+   },
+   {
+    "id": "chargebacks",
+    "name": "chargebacks",
+    "team": "risk",
+    "service": "fraud-engine"
+   },
+   {
+    "id": "authentication",
+    "name": "authentication",
+    "team": "platform",
+    "service": "auth-service"
+   },
+   {
+    "id": "rate-limiting",
+    "name": "rate-limiting",
+    "team": "platform",
+    "service": "api-gateway"
+   },
+   {
+    "id": "hsm-key-rotation",
+    "name": "hsm-key-rotation",
+    "team": "platform",
+    "service": "auth-service"
+   },
+   {
+    "id": "incident-response",
+    "name": "incident-response",
+    "team": "platform",
+    "service": "api-gateway"
+   },
+   {
+    "id": "notification-queue",
+    "name": "notification-queue",
+    "team": "notifications",
+    "service": "notifications"
+   },
+   {
+    "id": "notification-templates",
+    "name": "notification-templates",
+    "team": "notifications",
+    "service": "email-sender"
+   },
+   {
+    "id": "email-deliverability",
+    "name": "email-deliverability",
+    "team": "notifications",
+    "service": "email-sender"
+   },
+   {
+    "id": "merchant-onboarding",
+    "name": "merchant-onboarding",
+    "team": "merchant",
+    "service": "merchant-dashboard"
+   },
+   {
+    "id": "webhook-delivery",
+    "name": "webhook-delivery",
+    "team": "merchant",
+    "service": "webhooks"
+   },
+   {
+    "id": "dashboard-performance",
+    "name": "dashboard-performance",
+    "team": "merchant",
+    "service": "merchant-dashboard"
+   },
+   {
+    "id": "reporting-exports",
+    "name": "reporting-exports",
+    "team": "merchant",
+    "service": "merchant-dashboard"
+   }
+  ],
+  "Decision": [
+   {
+    "id": "D-001",
+    "summary": "Move the ledger database from MySQL to Postgres for better JSON and partitioning support",
+    "date": "2025-03-12",
+    "status": "superseded"
+   },
+   {
+    "id": "D-002",
+    "summary": "Roll back the Postgres migration; stay on MySQL 8 until at least Q3 2027 after cutover latency regressions",
+    "date": "2026-01-22",
+    "status": "current"
+   },
+   {
+    "id": "D-003",
+    "summary": "Use session tokens for internal service authentication",
+    "date": "2024-06-06",
+    "status": "superseded"
+   },
+   {
+    "id": "D-004",
+    "summary": "Adopt OAuth2 with short-lived JWTs for all service-to-service auth",
+    "date": "2026-02-13",
+    "status": "current"
+   },
+   {
+    "id": "D-005",
+    "summary": "Retry failed payments with exponential backoff, max 5 attempts",
+    "date": "2025-08-05",
+    "status": "current"
+   },
+   {
+    "id": "D-006",
+    "summary": "Require idempotency keys on all payment API writes",
+    "date": "2025-05-14",
+    "status": "current"
+   },
+   {
+    "id": "D-007",
+    "summary": "Use Kafka for the notification pipeline",
+    "date": "2025-02-11",
+    "status": "superseded"
+   },
+   {
+    "id": "D-008",
+    "summary": "Move the notification queue from Kafka to SQS to cut ops overhead",
+    "date": "2026-05-07",
+    "status": "current"
+   },
+   {
+    "id": "D-009",
+    "summary": "Keep fraud rules in-house instead of buying a vendor engine",
+    "date": "2025-11-04",
+    "status": "current"
+   },
+   {
+    "id": "D-010",
+    "summary": "Run settlement batch nightly at 02:00 UTC",
+    "date": "2025-09-03",
+    "status": "current"
+   },
+   {
+    "id": "D-011",
+    "summary": "Apply per-merchant rate limits at the API gateway",
+    "date": "2026-03-09",
+    "status": "current"
+   },
+   {
+    "id": "D-012",
+    "summary": "Deprecate webhook v1 payloads by end of 2026",
+    "date": "2026-04-15",
+    "status": "current"
+   }
+  ]
+ },
+ "edges": [
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-001"
+   ],
+   "to": [
+    "Team",
+    "team-payments"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-002"
+   ],
+   "to": [
+    "Team",
+    "team-payments"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-003"
+   ],
+   "to": [
+    "Team",
+    "team-payments"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-004"
+   ],
+   "to": [
+    "Team",
+    "team-payments"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-005"
+   ],
+   "to": [
+    "Team",
+    "team-payments"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-006"
+   ],
+   "to": [
+    "Team",
+    "team-payments"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-007"
+   ],
+   "to": [
+    "Team",
+    "team-payments"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-008"
+   ],
+   "to": [
+    "Team",
+    "team-payments"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-009"
+   ],
+   "to": [
+    "Team",
+    "team-ledger"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-010"
+   ],
+   "to": [
+    "Team",
+    "team-ledger"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-011"
+   ],
+   "to": [
+    "Team",
+    "team-ledger"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-012"
+   ],
+   "to": [
+    "Team",
+    "team-ledger"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-013"
+   ],
+   "to": [
+    "Team",
+    "team-ledger"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-014"
+   ],
+   "to": [
+    "Team",
+    "team-ledger"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-015"
+   ],
+   "to": [
+    "Team",
+    "team-ledger"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-016"
+   ],
+   "to": [
+    "Team",
+    "team-risk"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-017"
+   ],
+   "to": [
+    "Team",
+    "team-risk"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-018"
+   ],
+   "to": [
+    "Team",
+    "team-risk"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Team",
+    "team-risk"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-020"
+   ],
+   "to": [
+    "Team",
+    "team-risk"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-021"
+   ],
+   "to": [
+    "Team",
+    "team-risk"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-022"
+   ],
+   "to": [
+    "Team",
+    "team-risk"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Team",
+    "team-platform"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-024"
+   ],
+   "to": [
+    "Team",
+    "team-platform"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-025"
+   ],
+   "to": [
+    "Team",
+    "team-platform"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-026"
+   ],
+   "to": [
+    "Team",
+    "team-platform"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-027"
+   ],
+   "to": [
+    "Team",
+    "team-platform"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-028"
+   ],
+   "to": [
+    "Team",
+    "team-platform"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-029"
+   ],
+   "to": [
+    "Team",
+    "team-platform"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-030"
+   ],
+   "to": [
+    "Team",
+    "team-platform"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Team",
+    "team-notifications"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Team",
+    "team-notifications"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Team",
+    "team-notifications"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-034"
+   ],
+   "to": [
+    "Team",
+    "team-merchant"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-035"
+   ],
+   "to": [
+    "Team",
+    "team-merchant"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-036"
+   ],
+   "to": [
+    "Team",
+    "team-merchant"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-037"
+   ],
+   "to": [
+    "Team",
+    "team-merchant"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-038"
+   ],
+   "to": [
+    "Team",
+    "team-merchant"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Team",
+    "team-merchant"
+   ]
+  },
+  {
+   "type": "MEMBER_OF",
+   "from": [
+    "Person",
+    "PER-040"
+   ],
+   "to": [
+    "Team",
+    "team-merchant"
+   ]
+  },
+  {
+   "type": "OWNS",
+   "from": [
+    "Team",
+    "team-payments"
+   ],
+   "to": [
+    "Service",
+    "svc-payments-api"
+   ]
+  },
+  {
+   "type": "OWNS",
+   "from": [
+    "Team",
+    "team-payments"
+   ],
+   "to": [
+    "Service",
+    "svc-retry-engine"
+   ]
+  },
+  {
+   "type": "OWNS",
+   "from": [
+    "Team",
+    "team-ledger"
+   ],
+   "to": [
+    "Service",
+    "svc-ledger"
+   ]
+  },
+  {
+   "type": "OWNS",
+   "from": [
+    "Team",
+    "team-ledger"
+   ],
+   "to": [
+    "Service",
+    "svc-settlement"
+   ]
+  },
+  {
+   "type": "OWNS",
+   "from": [
+    "Team",
+    "team-risk"
+   ],
+   "to": [
+    "Service",
+    "svc-fraud-engine"
+   ]
+  },
+  {
+   "type": "OWNS",
+   "from": [
+    "Team",
+    "team-risk"
+   ],
+   "to": [
+    "Service",
+    "svc-risk-scoring"
+   ]
+  },
+  {
+   "type": "OWNS",
+   "from": [
+    "Team",
+    "team-platform"
+   ],
+   "to": [
+    "Service",
+    "svc-auth-service"
+   ]
+  },
+  {
+   "type": "OWNS",
+   "from": [
+    "Team",
+    "team-platform"
+   ],
+   "to": [
+    "Service",
+    "svc-api-gateway"
+   ]
+  },
+  {
+   "type": "OWNS",
+   "from": [
+    "Team",
+    "team-notifications"
+   ],
+   "to": [
+    "Service",
+    "svc-notifications"
+   ]
+  },
+  {
+   "type": "OWNS",
+   "from": [
+    "Team",
+    "team-notifications"
+   ],
+   "to": [
+    "Service",
+    "svc-email-sender"
+   ]
+  },
+  {
+   "type": "OWNS",
+   "from": [
+    "Team",
+    "team-merchant"
+   ],
+   "to": [
+    "Service",
+    "svc-merchant-dashboard"
+   ]
+  },
+  {
+   "type": "OWNS",
+   "from": [
+    "Team",
+    "team-merchant"
+   ],
+   "to": [
+    "Service",
+    "svc-webhooks"
+   ]
+  },
+  {
+   "type": "DEPENDS_ON",
+   "from": [
+    "Service",
+    "svc-payments-api"
+   ],
+   "to": [
+    "Service",
+    "svc-ledger"
+   ]
+  },
+  {
+   "type": "DEPENDS_ON",
+   "from": [
+    "Service",
+    "svc-payments-api"
+   ],
+   "to": [
+    "Service",
+    "svc-auth-service"
+   ]
+  },
+  {
+   "type": "DEPENDS_ON",
+   "from": [
+    "Service",
+    "svc-payments-api"
+   ],
+   "to": [
+    "Service",
+    "svc-fraud-engine"
+   ]
+  },
+  {
+   "type": "DEPENDS_ON",
+   "from": [
+    "Service",
+    "svc-payments-api"
+   ],
+   "to": [
+    "Service",
+    "svc-retry-engine"
+   ]
+  },
+  {
+   "type": "DEPENDS_ON",
+   "from": [
+    "Service",
+    "svc-retry-engine"
+   ],
+   "to": [
+    "Service",
+    "svc-ledger"
+   ]
+  },
+  {
+   "type": "DEPENDS_ON",
+   "from": [
+    "Service",
+    "svc-retry-engine"
+   ],
+   "to": [
+    "Service",
+    "svc-notifications"
+   ]
+  },
+  {
+   "type": "DEPENDS_ON",
+   "from": [
+    "Service",
+    "svc-settlement"
+   ],
+   "to": [
+    "Service",
+    "svc-ledger"
+   ]
+  },
+  {
+   "type": "DEPENDS_ON",
+   "from": [
+    "Service",
+    "svc-fraud-engine"
+   ],
+   "to": [
+    "Service",
+    "svc-risk-scoring"
+   ]
+  },
+  {
+   "type": "DEPENDS_ON",
+   "from": [
+    "Service",
+    "svc-merchant-dashboard"
+   ],
+   "to": [
+    "Service",
+    "svc-payments-api"
+   ]
+  },
+  {
+   "type": "DEPENDS_ON",
+   "from": [
+    "Service",
+    "svc-merchant-dashboard"
+   ],
+   "to": [
+    "Service",
+    "svc-auth-service"
+   ]
+  },
+  {
+   "type": "DEPENDS_ON",
+   "from": [
+    "Service",
+    "svc-api-gateway"
+   ],
+   "to": [
+    "Service",
+    "svc-auth-service"
+   ]
+  },
+  {
+   "type": "DEPENDS_ON",
+   "from": [
+    "Service",
+    "svc-api-gateway"
+   ],
+   "to": [
+    "Service",
+    "svc-payments-api"
+   ]
+  },
+  {
+   "type": "DEPENDS_ON",
+   "from": [
+    "Service",
+    "svc-webhooks"
+   ],
+   "to": [
+    "Service",
+    "svc-payments-api"
+   ]
+  },
+  {
+   "type": "DEPENDS_ON",
+   "from": [
+    "Service",
+    "svc-webhooks"
+   ],
+   "to": [
+    "Service",
+    "svc-notifications"
+   ]
+  },
+  {
+   "type": "DEPENDS_ON",
+   "from": [
+    "Service",
+    "svc-notifications"
+   ],
+   "to": [
+    "Service",
+    "svc-email-sender"
+   ]
+  },
+  {
+   "type": "OWNS",
+   "from": [
+    "Team",
+    "team-ledger"
+   ],
+   "to": [
+    "Project",
+    "prj-postgres-migration"
+   ]
+  },
+  {
+   "type": "OWNS",
+   "from": [
+    "Team",
+    "team-platform"
+   ],
+   "to": [
+    "Project",
+    "prj-auth-v2-rollout"
+   ]
+  },
+  {
+   "type": "OWNS",
+   "from": [
+    "Team",
+    "team-notifications"
+   ],
+   "to": [
+    "Project",
+    "prj-sqs-notification-queue"
+   ]
+  },
+  {
+   "type": "OWNS",
+   "from": [
+    "Team",
+    "team-risk"
+   ],
+   "to": [
+    "Project",
+    "prj-fraud-rules-v3"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-009"
+   ],
+   "to": [
+    "Document",
+    "DOC-001"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-001"
+   ],
+   "to": [
+    "Topic",
+    "postgres-migration"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-001"
+   ],
+   "to": [
+    "Topic",
+    "ledger-schema"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-009"
+   ],
+   "to": [
+    "Document",
+    "DOC-002"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-002"
+   ],
+   "to": [
+    "Topic",
+    "postgres-migration"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-002"
+   ],
+   "to": [
+    "Topic",
+    "incident-response"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-024"
+   ],
+   "to": [
+    "Document",
+    "DOC-003"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-003"
+   ],
+   "to": [
+    "Topic",
+    "authentication"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Document",
+    "DOC-004"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-004"
+   ],
+   "to": [
+    "Topic",
+    "authentication"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-004"
+   ],
+   "to": [
+    "Topic",
+    "rate-limiting"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-005"
+   ],
+   "to": [
+    "Document",
+    "DOC-005"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-005"
+   ],
+   "to": [
+    "Topic",
+    "payment-retries"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-005"
+   ],
+   "to": [
+    "Topic",
+    "idempotency"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Document",
+    "DOC-006"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-006"
+   ],
+   "to": [
+    "Topic",
+    "notification-queue"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Document",
+    "DOC-007"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-007"
+   ],
+   "to": [
+    "Topic",
+    "notification-queue"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Document",
+    "DOC-008"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-008"
+   ],
+   "to": [
+    "Topic",
+    "notification-templates"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-021"
+   ],
+   "to": [
+    "Document",
+    "DOC-009"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-009"
+   ],
+   "to": [
+    "Topic",
+    "fraud-rules"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-011"
+   ],
+   "to": [
+    "Document",
+    "DOC-010"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-010"
+   ],
+   "to": [
+    "Topic",
+    "settlement-reconciliation"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Document",
+    "DOC-011"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-011"
+   ],
+   "to": [
+    "Topic",
+    "hsm-key-rotation"
+   ]
+  },
+  {
+   "type": "SUPERSEDES",
+   "from": [
+    "Document",
+    "DOC-004"
+   ],
+   "to": [
+    "Document",
+    "DOC-003"
+   ]
+  },
+  {
+   "type": "SUPERSEDES",
+   "from": [
+    "Document",
+    "DOC-007"
+   ],
+   "to": [
+    "Document",
+    "DOC-006"
+   ]
+  },
+  {
+   "type": "SUPERSEDES",
+   "from": [
+    "Document",
+    "DOC-002"
+   ],
+   "to": [
+    "Document",
+    "DOC-001"
+   ]
+  },
+  {
+   "type": "MADE_BY",
+   "from": [
+    "Decision",
+    "D-001"
+   ],
+   "to": [
+    "Person",
+    "PER-009"
+   ]
+  },
+  {
+   "type": "DECIDED_IN",
+   "from": [
+    "Decision",
+    "D-001"
+   ],
+   "to": [
+    "Document",
+    "DOC-001"
+   ]
+  },
+  {
+   "type": "AFFECTS",
+   "from": [
+    "Decision",
+    "D-001"
+   ],
+   "to": [
+    "Service",
+    "svc-ledger"
+   ]
+  },
+  {
+   "type": "AFFECTS",
+   "from": [
+    "Decision",
+    "D-001"
+   ],
+   "to": [
+    "Project",
+    "prj-postgres-migration"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-009"
+   ],
+   "to": [
+    "Message",
+    "MSG-001"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-001"
+   ],
+   "to": [
+    "Topic",
+    "postgres-migration"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-010"
+   ],
+   "to": [
+    "Message",
+    "MSG-001"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-013"
+   ],
+   "to": [
+    "Message",
+    "MSG-001"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-015"
+   ],
+   "to": [
+    "Message",
+    "MSG-001"
+   ]
+  },
+  {
+   "type": "MADE_BY",
+   "from": [
+    "Decision",
+    "D-002"
+   ],
+   "to": [
+    "Person",
+    "PER-023"
+   ]
+  },
+  {
+   "type": "DECIDED_IN",
+   "from": [
+    "Decision",
+    "D-002"
+   ],
+   "to": [
+    "Document",
+    "DOC-002"
+   ]
+  },
+  {
+   "type": "DECIDED_IN",
+   "from": [
+    "Decision",
+    "D-002"
+   ],
+   "to": [
+    "Message",
+    "MSG-001"
+   ]
+  },
+  {
+   "type": "AFFECTS",
+   "from": [
+    "Decision",
+    "D-002"
+   ],
+   "to": [
+    "Service",
+    "svc-ledger"
+   ]
+  },
+  {
+   "type": "AFFECTS",
+   "from": [
+    "Decision",
+    "D-002"
+   ],
+   "to": [
+    "Project",
+    "prj-postgres-migration"
+   ]
+  },
+  {
+   "type": "SUPERSEDES",
+   "from": [
+    "Decision",
+    "D-002"
+   ],
+   "to": [
+    "Decision",
+    "D-001"
+   ]
+  },
+  {
+   "type": "MADE_BY",
+   "from": [
+    "Decision",
+    "D-003"
+   ],
+   "to": [
+    "Person",
+    "PER-024"
+   ]
+  },
+  {
+   "type": "DECIDED_IN",
+   "from": [
+    "Decision",
+    "D-003"
+   ],
+   "to": [
+    "Document",
+    "DOC-003"
+   ]
+  },
+  {
+   "type": "AFFECTS",
+   "from": [
+    "Decision",
+    "D-003"
+   ],
+   "to": [
+    "Service",
+    "svc-auth-service"
+   ]
+  },
+  {
+   "type": "MADE_BY",
+   "from": [
+    "Decision",
+    "D-004"
+   ],
+   "to": [
+    "Person",
+    "PER-023"
+   ]
+  },
+  {
+   "type": "DECIDED_IN",
+   "from": [
+    "Decision",
+    "D-004"
+   ],
+   "to": [
+    "Document",
+    "DOC-004"
+   ]
+  },
+  {
+   "type": "AFFECTS",
+   "from": [
+    "Decision",
+    "D-004"
+   ],
+   "to": [
+    "Service",
+    "svc-auth-service"
+   ]
+  },
+  {
+   "type": "AFFECTS",
+   "from": [
+    "Decision",
+    "D-004"
+   ],
+   "to": [
+    "Project",
+    "prj-auth-v2-rollout"
+   ]
+  },
+  {
+   "type": "SUPERSEDES",
+   "from": [
+    "Decision",
+    "D-004"
+   ],
+   "to": [
+    "Decision",
+    "D-003"
+   ]
+  },
+  {
+   "type": "MADE_BY",
+   "from": [
+    "Decision",
+    "D-005"
+   ],
+   "to": [
+    "Person",
+    "PER-001"
+   ]
+  },
+  {
+   "type": "DECIDED_IN",
+   "from": [
+    "Decision",
+    "D-005"
+   ],
+   "to": [
+    "Document",
+    "DOC-005"
+   ]
+  },
+  {
+   "type": "AFFECTS",
+   "from": [
+    "Decision",
+    "D-005"
+   ],
+   "to": [
+    "Service",
+    "svc-retry-engine"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-005"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-001"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-001"
+   ],
+   "to": [
+    "Topic",
+    "idempotency"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-008"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-001"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-003"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-001"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-006"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-001"
+   ]
+  },
+  {
+   "type": "MADE_BY",
+   "from": [
+    "Decision",
+    "D-006"
+   ],
+   "to": [
+    "Person",
+    "PER-001"
+   ]
+  },
+  {
+   "type": "DECIDED_IN",
+   "from": [
+    "Decision",
+    "D-006"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-001"
+   ]
+  },
+  {
+   "type": "AFFECTS",
+   "from": [
+    "Decision",
+    "D-006"
+   ],
+   "to": [
+    "Service",
+    "svc-payments-api"
+   ]
+  },
+  {
+   "type": "MADE_BY",
+   "from": [
+    "Decision",
+    "D-007"
+   ],
+   "to": [
+    "Person",
+    "PER-032"
+   ]
+  },
+  {
+   "type": "DECIDED_IN",
+   "from": [
+    "Decision",
+    "D-007"
+   ],
+   "to": [
+    "Document",
+    "DOC-006"
+   ]
+  },
+  {
+   "type": "AFFECTS",
+   "from": [
+    "Decision",
+    "D-007"
+   ],
+   "to": [
+    "Service",
+    "svc-notifications"
+   ]
+  },
+  {
+   "type": "MADE_BY",
+   "from": [
+    "Decision",
+    "D-008"
+   ],
+   "to": [
+    "Person",
+    "PER-031"
+   ]
+  },
+  {
+   "type": "DECIDED_IN",
+   "from": [
+    "Decision",
+    "D-008"
+   ],
+   "to": [
+    "Document",
+    "DOC-007"
+   ]
+  },
+  {
+   "type": "AFFECTS",
+   "from": [
+    "Decision",
+    "D-008"
+   ],
+   "to": [
+    "Service",
+    "svc-notifications"
+   ]
+  },
+  {
+   "type": "AFFECTS",
+   "from": [
+    "Decision",
+    "D-008"
+   ],
+   "to": [
+    "Project",
+    "prj-sqs-notification-queue"
+   ]
+  },
+  {
+   "type": "SUPERSEDES",
+   "from": [
+    "Decision",
+    "D-008"
+   ],
+   "to": [
+    "Decision",
+    "D-007"
+   ]
+  },
+  {
+   "type": "MADE_BY",
+   "from": [
+    "Decision",
+    "D-009"
+   ],
+   "to": [
+    "Person",
+    "PER-016"
+   ]
+  },
+  {
+   "type": "DECIDED_IN",
+   "from": [
+    "Decision",
+    "D-009"
+   ],
+   "to": [
+    "Document",
+    "DOC-009"
+   ]
+  },
+  {
+   "type": "AFFECTS",
+   "from": [
+    "Decision",
+    "D-009"
+   ],
+   "to": [
+    "Service",
+    "svc-fraud-engine"
+   ]
+  },
+  {
+   "type": "AFFECTS",
+   "from": [
+    "Decision",
+    "D-009"
+   ],
+   "to": [
+    "Project",
+    "prj-fraud-rules-v3"
+   ]
+  },
+  {
+   "type": "MADE_BY",
+   "from": [
+    "Decision",
+    "D-010"
+   ],
+   "to": [
+    "Person",
+    "PER-011"
+   ]
+  },
+  {
+   "type": "DECIDED_IN",
+   "from": [
+    "Decision",
+    "D-010"
+   ],
+   "to": [
+    "Document",
+    "DOC-010"
+   ]
+  },
+  {
+   "type": "AFFECTS",
+   "from": [
+    "Decision",
+    "D-010"
+   ],
+   "to": [
+    "Service",
+    "svc-settlement"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Message",
+    "MSG-002"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-002"
+   ],
+   "to": [
+    "Topic",
+    "rate-limiting"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-005"
+   ],
+   "to": [
+    "Message",
+    "MSG-002"
+   ]
+  },
+  {
+   "type": "MADE_BY",
+   "from": [
+    "Decision",
+    "D-011"
+   ],
+   "to": [
+    "Person",
+    "PER-023"
+   ]
+  },
+  {
+   "type": "DECIDED_IN",
+   "from": [
+    "Decision",
+    "D-011"
+   ],
+   "to": [
+    "Message",
+    "MSG-002"
+   ]
+  },
+  {
+   "type": "AFFECTS",
+   "from": [
+    "Decision",
+    "D-011"
+   ],
+   "to": [
+    "Service",
+    "svc-api-gateway"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-035"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-002"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-002"
+   ],
+   "to": [
+    "Topic",
+    "webhook-delivery"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-036"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-002"
+   ]
+  },
+  {
+   "type": "MADE_BY",
+   "from": [
+    "Decision",
+    "D-012"
+   ],
+   "to": [
+    "Person",
+    "PER-034"
+   ]
+  },
+  {
+   "type": "DECIDED_IN",
+   "from": [
+    "Decision",
+    "D-012"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-002"
+   ]
+  },
+  {
+   "type": "AFFECTS",
+   "from": [
+    "Decision",
+    "D-012"
+   ],
+   "to": [
+    "Service",
+    "svc-webhooks"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-004"
+   ],
+   "to": [
+    "Document",
+    "DOC-012"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-012"
+   ],
+   "to": [
+    "Topic",
+    "payment-retries"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-006"
+   ],
+   "to": [
+    "Document",
+    "DOC-013"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-013"
+   ],
+   "to": [
+    "Topic",
+    "idempotency"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-002"
+   ],
+   "to": [
+    "Document",
+    "DOC-014"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-014"
+   ],
+   "to": [
+    "Topic",
+    "payment-routing"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-010"
+   ],
+   "to": [
+    "Document",
+    "DOC-015"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-015"
+   ],
+   "to": [
+    "Topic",
+    "ledger-schema"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-013"
+   ],
+   "to": [
+    "Document",
+    "DOC-016"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-016"
+   ],
+   "to": [
+    "Topic",
+    "postgres-migration"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-020"
+   ],
+   "to": [
+    "Document",
+    "DOC-017"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-017"
+   ],
+   "to": [
+    "Topic",
+    "fraud-rules"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Document",
+    "DOC-018"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-018"
+   ],
+   "to": [
+    "Topic",
+    "risk-scoring"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-017"
+   ],
+   "to": [
+    "Document",
+    "DOC-019"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-019"
+   ],
+   "to": [
+    "Topic",
+    "chargebacks"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-025"
+   ],
+   "to": [
+    "Document",
+    "DOC-020"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-020"
+   ],
+   "to": [
+    "Topic",
+    "authentication"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-025"
+   ],
+   "to": [
+    "Document",
+    "DOC-021"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-021"
+   ],
+   "to": [
+    "Topic",
+    "rate-limiting"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-029"
+   ],
+   "to": [
+    "Document",
+    "DOC-022"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-022"
+   ],
+   "to": [
+    "Topic",
+    "incident-response"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Document",
+    "DOC-023"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-023"
+   ],
+   "to": [
+    "Topic",
+    "notification-queue"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Document",
+    "DOC-024"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-024"
+   ],
+   "to": [
+    "Topic",
+    "email-deliverability"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-035"
+   ],
+   "to": [
+    "Document",
+    "DOC-025"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Document",
+    "DOC-025"
+   ],
+   "to": [
+    "Topic",
+    "merchant-onboarding"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-002"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-003"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-003"
+   ],
+   "to": [
+    "Topic",
+    "payment-retries"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-005"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-003"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-003"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-003"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-004"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-003"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-014"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-004"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-004"
+   ],
+   "to": [
+    "Topic",
+    "ledger-schema"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-012"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-004"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-011"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-004"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-010"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-004"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-016"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-005"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-005"
+   ],
+   "to": [
+    "Topic",
+    "fraud-rules"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-005"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-005"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-027"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-006"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-006"
+   ],
+   "to": [
+    "Topic",
+    "authentication"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-026"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-006"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-028"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-006"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-025"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-006"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-028"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-007"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-007"
+   ],
+   "to": [
+    "Topic",
+    "incident-response"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-030"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-007"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-007"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-008"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-008"
+   ],
+   "to": [
+    "Topic",
+    "email-deliverability"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-008"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-008"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-009"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-009"
+   ],
+   "to": [
+    "Topic",
+    "dashboard-performance"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-035"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-009"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-005"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-010"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-010"
+   ],
+   "to": [
+    "Topic",
+    "idempotency"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-001"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-010"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-006"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-010"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-003"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-010"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-015"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-011"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-011"
+   ],
+   "to": [
+    "Topic",
+    "postgres-migration"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-010"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-011"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-009"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-011"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-016"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-012"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-012"
+   ],
+   "to": [
+    "Topic",
+    "risk-scoring"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-021"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-012"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-030"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-013"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-013"
+   ],
+   "to": [
+    "Topic",
+    "rate-limiting"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-029"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-013"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-026"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-013"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-013"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-014"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-014"
+   ],
+   "to": [
+    "Topic",
+    "notification-queue"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-014"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-034"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-015"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-015"
+   ],
+   "to": [
+    "Topic",
+    "merchant-onboarding"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-036"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-015"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-035"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-015"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-015"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-040"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-016"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-016"
+   ],
+   "to": [
+    "Topic",
+    "reporting-exports"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-038"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-016"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-002"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-017"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-017"
+   ],
+   "to": [
+    "Topic",
+    "payment-routing"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-017"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-005"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-017"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-017"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-011"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-018"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-018"
+   ],
+   "to": [
+    "Topic",
+    "settlement-reconciliation"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-018"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-030"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-018"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-020"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-019"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-019"
+   ],
+   "to": [
+    "Topic",
+    "chargebacks"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-016"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-019"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-020"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-020"
+   ],
+   "to": [
+    "Topic",
+    "hsm-key-rotation"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-026"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-020"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-021"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-021"
+   ],
+   "to": [
+    "Topic",
+    "notification-templates"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-014"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-021"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-010"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-021"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-034"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-022"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-022"
+   ],
+   "to": [
+    "Topic",
+    "webhook-delivery"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-035"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-022"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-004"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-023"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-023"
+   ],
+   "to": [
+    "Topic",
+    "payment-retries"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-003"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-023"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-010"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-024"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-024"
+   ],
+   "to": [
+    "Topic",
+    "ledger-schema"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-012"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-024"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-013"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-024"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-017"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-025"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-025"
+   ],
+   "to": [
+    "Topic",
+    "fraud-rules"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-021"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-025"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-026"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-026"
+   ],
+   "to": [
+    "Topic",
+    "authentication"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-029"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-026"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-026"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-026"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-025"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-026"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-027"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-027"
+   ],
+   "to": [
+    "Topic",
+    "incident-response"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-026"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-027"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-012"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-027"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-028"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-028"
+   ],
+   "to": [
+    "Topic",
+    "email-deliverability"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-028"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-028"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-035"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-029"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-029"
+   ],
+   "to": [
+    "Topic",
+    "dashboard-performance"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-040"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-029"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-037"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-029"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-038"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-029"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-001"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-030"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-030"
+   ],
+   "to": [
+    "Topic",
+    "idempotency"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-002"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-030"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-008"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-030"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-006"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-030"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-009"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-031"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-031"
+   ],
+   "to": [
+    "Topic",
+    "postgres-migration"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-011"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-031"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-032"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-032"
+   ],
+   "to": [
+    "Topic",
+    "risk-scoring"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-021"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-032"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-022"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-032"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-030"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-033"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-033"
+   ],
+   "to": [
+    "Topic",
+    "rate-limiting"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-024"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-033"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-015"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-033"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-034"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-034"
+   ],
+   "to": [
+    "Topic",
+    "notification-queue"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-034"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-040"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-035"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-035"
+   ],
+   "to": [
+    "Topic",
+    "merchant-onboarding"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-035"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-034"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-036"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-036"
+   ],
+   "to": [
+    "Topic",
+    "reporting-exports"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-040"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-036"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-005"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-037"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-037"
+   ],
+   "to": [
+    "Topic",
+    "payment-routing"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-001"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-037"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-011"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-038"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-038"
+   ],
+   "to": [
+    "Topic",
+    "settlement-reconciliation"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-014"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-038"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-015"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-038"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-016"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-039"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-039"
+   ],
+   "to": [
+    "Topic",
+    "chargebacks"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-039"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-040"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-040"
+   ],
+   "to": [
+    "Topic",
+    "hsm-key-rotation"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-030"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-040"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-028"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-040"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-041"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-041"
+   ],
+   "to": [
+    "Topic",
+    "notification-templates"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-041"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-035"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-042"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-042"
+   ],
+   "to": [
+    "Topic",
+    "webhook-delivery"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-040"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-042"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-036"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-042"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-004"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-043"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-043"
+   ],
+   "to": [
+    "Topic",
+    "payment-retries"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-005"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-043"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-014"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-044"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-044"
+   ],
+   "to": [
+    "Topic",
+    "ledger-schema"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-009"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-044"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-017"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-045"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-045"
+   ],
+   "to": [
+    "Topic",
+    "fraud-rules"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-021"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-045"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-045"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-030"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-046"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-046"
+   ],
+   "to": [
+    "Topic",
+    "authentication"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-046"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-027"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-047"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-047"
+   ],
+   "to": [
+    "Topic",
+    "incident-response"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-026"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-047"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-028"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-047"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-048"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-048"
+   ],
+   "to": [
+    "Topic",
+    "email-deliverability"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-006"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-048"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-048"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-004"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-048"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-036"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-049"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-049"
+   ],
+   "to": [
+    "Topic",
+    "dashboard-performance"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-038"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-049"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-040"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-049"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-005"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-050"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-050"
+   ],
+   "to": [
+    "Topic",
+    "idempotency"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-004"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-050"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-007"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-050"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-010"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-051"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-051"
+   ],
+   "to": [
+    "Topic",
+    "postgres-migration"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-015"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-051"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-011"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-051"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-052"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-052"
+   ],
+   "to": [
+    "Topic",
+    "risk-scoring"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-016"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-052"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-027"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-053"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-053"
+   ],
+   "to": [
+    "Topic",
+    "rate-limiting"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-029"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-053"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-054"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-054"
+   ],
+   "to": [
+    "Topic",
+    "notification-queue"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-054"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-038"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-055"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-055"
+   ],
+   "to": [
+    "Topic",
+    "merchant-onboarding"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-034"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-055"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-038"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-056"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-056"
+   ],
+   "to": [
+    "Topic",
+    "reporting-exports"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-037"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-056"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-056"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-004"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-057"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-057"
+   ],
+   "to": [
+    "Topic",
+    "payment-routing"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-001"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-057"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-057"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-002"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-057"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-011"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-058"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-058"
+   ],
+   "to": [
+    "Topic",
+    "settlement-reconciliation"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-014"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-058"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-013"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-058"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-009"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-058"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-059"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-059"
+   ],
+   "to": [
+    "Topic",
+    "chargebacks"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-021"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-059"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-022"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-059"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-018"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-059"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-060"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Ticket",
+    "TCK-060"
+   ],
+   "to": [
+    "Topic",
+    "hsm-key-rotation"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-028"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-060"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-026"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-060"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-030"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-060"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-007"
+   ],
+   "to": [
+    "Message",
+    "MSG-003"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-003"
+   ],
+   "to": [
+    "Topic",
+    "payment-retries"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-008"
+   ],
+   "to": [
+    "Message",
+    "MSG-003"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-005"
+   ],
+   "to": [
+    "Message",
+    "MSG-003"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-017"
+   ],
+   "to": [
+    "Message",
+    "MSG-004"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-004"
+   ],
+   "to": [
+    "Topic",
+    "risk-scoring"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-021"
+   ],
+   "to": [
+    "Message",
+    "MSG-004"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Message",
+    "MSG-005"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-005"
+   ],
+   "to": [
+    "Topic",
+    "notification-templates"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Message",
+    "MSG-005"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-004"
+   ],
+   "to": [
+    "Message",
+    "MSG-006"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-006"
+   ],
+   "to": [
+    "Topic",
+    "idempotency"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-008"
+   ],
+   "to": [
+    "Message",
+    "MSG-006"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Message",
+    "MSG-007"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-007"
+   ],
+   "to": [
+    "Topic",
+    "chargebacks"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-020"
+   ],
+   "to": [
+    "Message",
+    "MSG-007"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Message",
+    "MSG-008"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-008"
+   ],
+   "to": [
+    "Topic",
+    "email-deliverability"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Message",
+    "MSG-008"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Message",
+    "MSG-008"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-007"
+   ],
+   "to": [
+    "Message",
+    "MSG-009"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-009"
+   ],
+   "to": [
+    "Topic",
+    "payment-routing"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-005"
+   ],
+   "to": [
+    "Message",
+    "MSG-009"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-006"
+   ],
+   "to": [
+    "Message",
+    "MSG-009"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-027"
+   ],
+   "to": [
+    "Message",
+    "MSG-010"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-010"
+   ],
+   "to": [
+    "Topic",
+    "authentication"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Message",
+    "MSG-010"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-028"
+   ],
+   "to": [
+    "Message",
+    "MSG-010"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Message",
+    "MSG-011"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-011"
+   ],
+   "to": [
+    "Topic",
+    "merchant-onboarding"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-038"
+   ],
+   "to": [
+    "Message",
+    "MSG-011"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-015"
+   ],
+   "to": [
+    "Message",
+    "MSG-012"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-012"
+   ],
+   "to": [
+    "Topic",
+    "ledger-schema"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-009"
+   ],
+   "to": [
+    "Message",
+    "MSG-012"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-014"
+   ],
+   "to": [
+    "Message",
+    "MSG-012"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-012"
+   ],
+   "to": [
+    "Message",
+    "MSG-012"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-024"
+   ],
+   "to": [
+    "Message",
+    "MSG-013"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-013"
+   ],
+   "to": [
+    "Topic",
+    "rate-limiting"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-025"
+   ],
+   "to": [
+    "Message",
+    "MSG-013"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-027"
+   ],
+   "to": [
+    "Message",
+    "MSG-013"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Message",
+    "MSG-014"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-014"
+   ],
+   "to": [
+    "Topic",
+    "webhook-delivery"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-036"
+   ],
+   "to": [
+    "Message",
+    "MSG-014"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-034"
+   ],
+   "to": [
+    "Message",
+    "MSG-014"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-014"
+   ],
+   "to": [
+    "Message",
+    "MSG-015"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-015"
+   ],
+   "to": [
+    "Topic",
+    "postgres-migration"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-020"
+   ],
+   "to": [
+    "Message",
+    "MSG-015"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Message",
+    "MSG-016"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-016"
+   ],
+   "to": [
+    "Topic",
+    "hsm-key-rotation"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-025"
+   ],
+   "to": [
+    "Message",
+    "MSG-016"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-035"
+   ],
+   "to": [
+    "Message",
+    "MSG-017"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-017"
+   ],
+   "to": [
+    "Topic",
+    "dashboard-performance"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Message",
+    "MSG-017"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-011"
+   ],
+   "to": [
+    "Message",
+    "MSG-018"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-018"
+   ],
+   "to": [
+    "Topic",
+    "settlement-reconciliation"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-010"
+   ],
+   "to": [
+    "Message",
+    "MSG-018"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-014"
+   ],
+   "to": [
+    "Message",
+    "MSG-018"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-029"
+   ],
+   "to": [
+    "Message",
+    "MSG-019"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-019"
+   ],
+   "to": [
+    "Topic",
+    "incident-response"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Message",
+    "MSG-019"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-038"
+   ],
+   "to": [
+    "Message",
+    "MSG-020"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-020"
+   ],
+   "to": [
+    "Topic",
+    "reporting-exports"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-037"
+   ],
+   "to": [
+    "Message",
+    "MSG-020"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-035"
+   ],
+   "to": [
+    "Message",
+    "MSG-020"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-016"
+   ],
+   "to": [
+    "Message",
+    "MSG-021"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-021"
+   ],
+   "to": [
+    "Topic",
+    "fraud-rules"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-021"
+   ],
+   "to": [
+    "Message",
+    "MSG-021"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-017"
+   ],
+   "to": [
+    "Message",
+    "MSG-021"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-022"
+   ],
+   "to": [
+    "Message",
+    "MSG-021"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Message",
+    "MSG-022"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-022"
+   ],
+   "to": [
+    "Topic",
+    "notification-queue"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Message",
+    "MSG-022"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-038"
+   ],
+   "to": [
+    "Message",
+    "MSG-022"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-004"
+   ],
+   "to": [
+    "Message",
+    "MSG-023"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-023"
+   ],
+   "to": [
+    "Topic",
+    "payment-retries"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-007"
+   ],
+   "to": [
+    "Message",
+    "MSG-023"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-002"
+   ],
+   "to": [
+    "Message",
+    "MSG-023"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-021"
+   ],
+   "to": [
+    "Message",
+    "MSG-024"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-024"
+   ],
+   "to": [
+    "Topic",
+    "risk-scoring"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-020"
+   ],
+   "to": [
+    "Message",
+    "MSG-024"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-022"
+   ],
+   "to": [
+    "Message",
+    "MSG-024"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Message",
+    "MSG-025"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-025"
+   ],
+   "to": [
+    "Topic",
+    "notification-templates"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Message",
+    "MSG-025"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Message",
+    "MSG-025"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-003"
+   ],
+   "to": [
+    "Message",
+    "MSG-026"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-026"
+   ],
+   "to": [
+    "Topic",
+    "idempotency"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-006"
+   ],
+   "to": [
+    "Message",
+    "MSG-026"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-008"
+   ],
+   "to": [
+    "Message",
+    "MSG-026"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-016"
+   ],
+   "to": [
+    "Message",
+    "MSG-027"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-027"
+   ],
+   "to": [
+    "Topic",
+    "chargebacks"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-020"
+   ],
+   "to": [
+    "Message",
+    "MSG-027"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Message",
+    "MSG-028"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-028"
+   ],
+   "to": [
+    "Topic",
+    "email-deliverability"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Message",
+    "MSG-028"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Message",
+    "MSG-028"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-001"
+   ],
+   "to": [
+    "Message",
+    "MSG-029"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-029"
+   ],
+   "to": [
+    "Topic",
+    "payment-routing"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-006"
+   ],
+   "to": [
+    "Message",
+    "MSG-029"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-003"
+   ],
+   "to": [
+    "Message",
+    "MSG-029"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-027"
+   ],
+   "to": [
+    "Message",
+    "MSG-030"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-030"
+   ],
+   "to": [
+    "Topic",
+    "authentication"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-016"
+   ],
+   "to": [
+    "Message",
+    "MSG-030"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-038"
+   ],
+   "to": [
+    "Message",
+    "MSG-031"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-031"
+   ],
+   "to": [
+    "Topic",
+    "merchant-onboarding"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Message",
+    "MSG-031"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-036"
+   ],
+   "to": [
+    "Message",
+    "MSG-031"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-037"
+   ],
+   "to": [
+    "Message",
+    "MSG-031"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-011"
+   ],
+   "to": [
+    "Message",
+    "MSG-032"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-032"
+   ],
+   "to": [
+    "Topic",
+    "ledger-schema"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-012"
+   ],
+   "to": [
+    "Message",
+    "MSG-032"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-010"
+   ],
+   "to": [
+    "Message",
+    "MSG-032"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-025"
+   ],
+   "to": [
+    "Message",
+    "MSG-033"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-033"
+   ],
+   "to": [
+    "Topic",
+    "rate-limiting"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-024"
+   ],
+   "to": [
+    "Message",
+    "MSG-033"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-030"
+   ],
+   "to": [
+    "Message",
+    "MSG-033"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-029"
+   ],
+   "to": [
+    "Message",
+    "MSG-033"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Message",
+    "MSG-034"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-034"
+   ],
+   "to": [
+    "Topic",
+    "webhook-delivery"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-038"
+   ],
+   "to": [
+    "Message",
+    "MSG-034"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-036"
+   ],
+   "to": [
+    "Message",
+    "MSG-034"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-034"
+   ],
+   "to": [
+    "Message",
+    "MSG-034"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-010"
+   ],
+   "to": [
+    "Message",
+    "MSG-035"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-035"
+   ],
+   "to": [
+    "Topic",
+    "postgres-migration"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-003"
+   ],
+   "to": [
+    "Message",
+    "MSG-035"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-012"
+   ],
+   "to": [
+    "Message",
+    "MSG-035"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-014"
+   ],
+   "to": [
+    "Message",
+    "MSG-035"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Message",
+    "MSG-036"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-036"
+   ],
+   "to": [
+    "Topic",
+    "hsm-key-rotation"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-025"
+   ],
+   "to": [
+    "Message",
+    "MSG-036"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-029"
+   ],
+   "to": [
+    "Message",
+    "MSG-036"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-027"
+   ],
+   "to": [
+    "Message",
+    "MSG-036"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-038"
+   ],
+   "to": [
+    "Message",
+    "MSG-037"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-037"
+   ],
+   "to": [
+    "Topic",
+    "dashboard-performance"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-036"
+   ],
+   "to": [
+    "Message",
+    "MSG-037"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-035"
+   ],
+   "to": [
+    "Message",
+    "MSG-037"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-011"
+   ],
+   "to": [
+    "Message",
+    "MSG-038"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-038"
+   ],
+   "to": [
+    "Topic",
+    "settlement-reconciliation"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-009"
+   ],
+   "to": [
+    "Message",
+    "MSG-038"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-015"
+   ],
+   "to": [
+    "Message",
+    "MSG-038"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Message",
+    "MSG-039"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-039"
+   ],
+   "to": [
+    "Topic",
+    "incident-response"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-026"
+   ],
+   "to": [
+    "Message",
+    "MSG-039"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-034"
+   ],
+   "to": [
+    "Message",
+    "MSG-040"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-040"
+   ],
+   "to": [
+    "Topic",
+    "reporting-exports"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-038"
+   ],
+   "to": [
+    "Message",
+    "MSG-040"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Message",
+    "MSG-040"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-018"
+   ],
+   "to": [
+    "Message",
+    "MSG-041"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-041"
+   ],
+   "to": [
+    "Topic",
+    "fraud-rules"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Message",
+    "MSG-041"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-021"
+   ],
+   "to": [
+    "Message",
+    "MSG-041"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Message",
+    "MSG-042"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-042"
+   ],
+   "to": [
+    "Topic",
+    "notification-queue"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Message",
+    "MSG-042"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-009"
+   ],
+   "to": [
+    "Message",
+    "MSG-042"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-005"
+   ],
+   "to": [
+    "Message",
+    "MSG-043"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-043"
+   ],
+   "to": [
+    "Topic",
+    "payment-retries"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-027"
+   ],
+   "to": [
+    "Message",
+    "MSG-043"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-025"
+   ],
+   "to": [
+    "Message",
+    "MSG-043"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-016"
+   ],
+   "to": [
+    "Message",
+    "MSG-044"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-044"
+   ],
+   "to": [
+    "Topic",
+    "risk-scoring"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-022"
+   ],
+   "to": [
+    "Message",
+    "MSG-044"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-020"
+   ],
+   "to": [
+    "Message",
+    "MSG-044"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Message",
+    "MSG-045"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-045"
+   ],
+   "to": [
+    "Topic",
+    "notification-templates"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Message",
+    "MSG-045"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Message",
+    "MSG-045"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-006"
+   ],
+   "to": [
+    "Message",
+    "MSG-046"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-046"
+   ],
+   "to": [
+    "Topic",
+    "idempotency"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-001"
+   ],
+   "to": [
+    "Message",
+    "MSG-046"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-021"
+   ],
+   "to": [
+    "Message",
+    "MSG-047"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-047"
+   ],
+   "to": [
+    "Topic",
+    "chargebacks"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-018"
+   ],
+   "to": [
+    "Message",
+    "MSG-047"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Message",
+    "MSG-047"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-016"
+   ],
+   "to": [
+    "Message",
+    "MSG-047"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Message",
+    "MSG-048"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-048"
+   ],
+   "to": [
+    "Topic",
+    "email-deliverability"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Message",
+    "MSG-048"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-005"
+   ],
+   "to": [
+    "Message",
+    "MSG-049"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-049"
+   ],
+   "to": [
+    "Topic",
+    "payment-routing"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-003"
+   ],
+   "to": [
+    "Message",
+    "MSG-049"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-006"
+   ],
+   "to": [
+    "Message",
+    "MSG-049"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-008"
+   ],
+   "to": [
+    "Message",
+    "MSG-049"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-024"
+   ],
+   "to": [
+    "Message",
+    "MSG-050"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-050"
+   ],
+   "to": [
+    "Topic",
+    "authentication"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-028"
+   ],
+   "to": [
+    "Message",
+    "MSG-050"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Message",
+    "MSG-050"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-026"
+   ],
+   "to": [
+    "Message",
+    "MSG-050"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Message",
+    "MSG-051"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-051"
+   ],
+   "to": [
+    "Topic",
+    "merchant-onboarding"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Message",
+    "MSG-051"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-036"
+   ],
+   "to": [
+    "Message",
+    "MSG-051"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-035"
+   ],
+   "to": [
+    "Message",
+    "MSG-051"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-013"
+   ],
+   "to": [
+    "Message",
+    "MSG-052"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-052"
+   ],
+   "to": [
+    "Topic",
+    "ledger-schema"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-012"
+   ],
+   "to": [
+    "Message",
+    "MSG-052"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-026"
+   ],
+   "to": [
+    "Message",
+    "MSG-053"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-053"
+   ],
+   "to": [
+    "Topic",
+    "rate-limiting"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-027"
+   ],
+   "to": [
+    "Message",
+    "MSG-053"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-036"
+   ],
+   "to": [
+    "Message",
+    "MSG-054"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-054"
+   ],
+   "to": [
+    "Topic",
+    "webhook-delivery"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-034"
+   ],
+   "to": [
+    "Message",
+    "MSG-054"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-038"
+   ],
+   "to": [
+    "Message",
+    "MSG-054"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-040"
+   ],
+   "to": [
+    "Message",
+    "MSG-054"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-011"
+   ],
+   "to": [
+    "Message",
+    "MSG-055"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-055"
+   ],
+   "to": [
+    "Topic",
+    "postgres-migration"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-014"
+   ],
+   "to": [
+    "Message",
+    "MSG-055"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-009"
+   ],
+   "to": [
+    "Message",
+    "MSG-055"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Message",
+    "MSG-056"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-056"
+   ],
+   "to": [
+    "Topic",
+    "hsm-key-rotation"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-029"
+   ],
+   "to": [
+    "Message",
+    "MSG-056"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-038"
+   ],
+   "to": [
+    "Message",
+    "MSG-057"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-057"
+   ],
+   "to": [
+    "Topic",
+    "dashboard-performance"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-036"
+   ],
+   "to": [
+    "Message",
+    "MSG-057"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-011"
+   ],
+   "to": [
+    "Message",
+    "MSG-058"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-058"
+   ],
+   "to": [
+    "Topic",
+    "settlement-reconciliation"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-015"
+   ],
+   "to": [
+    "Message",
+    "MSG-058"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-013"
+   ],
+   "to": [
+    "Message",
+    "MSG-058"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-030"
+   ],
+   "to": [
+    "Message",
+    "MSG-059"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-059"
+   ],
+   "to": [
+    "Topic",
+    "incident-response"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-028"
+   ],
+   "to": [
+    "Message",
+    "MSG-059"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-037"
+   ],
+   "to": [
+    "Message",
+    "MSG-060"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-060"
+   ],
+   "to": [
+    "Topic",
+    "reporting-exports"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-035"
+   ],
+   "to": [
+    "Message",
+    "MSG-060"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-022"
+   ],
+   "to": [
+    "Message",
+    "MSG-061"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-061"
+   ],
+   "to": [
+    "Topic",
+    "fraud-rules"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Message",
+    "MSG-061"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Message",
+    "MSG-062"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-062"
+   ],
+   "to": [
+    "Topic",
+    "notification-queue"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Message",
+    "MSG-062"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Message",
+    "MSG-062"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-004"
+   ],
+   "to": [
+    "Message",
+    "MSG-063"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-063"
+   ],
+   "to": [
+    "Topic",
+    "payment-retries"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-007"
+   ],
+   "to": [
+    "Message",
+    "MSG-063"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-002"
+   ],
+   "to": [
+    "Message",
+    "MSG-063"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-001"
+   ],
+   "to": [
+    "Message",
+    "MSG-063"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-018"
+   ],
+   "to": [
+    "Message",
+    "MSG-064"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-064"
+   ],
+   "to": [
+    "Topic",
+    "risk-scoring"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-016"
+   ],
+   "to": [
+    "Message",
+    "MSG-064"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Message",
+    "MSG-064"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Message",
+    "MSG-065"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-065"
+   ],
+   "to": [
+    "Topic",
+    "notification-templates"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Message",
+    "MSG-065"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Message",
+    "MSG-065"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-004"
+   ],
+   "to": [
+    "Message",
+    "MSG-066"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-066"
+   ],
+   "to": [
+    "Topic",
+    "idempotency"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-007"
+   ],
+   "to": [
+    "Message",
+    "MSG-066"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-017"
+   ],
+   "to": [
+    "Message",
+    "MSG-067"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-067"
+   ],
+   "to": [
+    "Topic",
+    "chargebacks"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Message",
+    "MSG-067"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Message",
+    "MSG-068"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-068"
+   ],
+   "to": [
+    "Topic",
+    "email-deliverability"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Message",
+    "MSG-068"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-002"
+   ],
+   "to": [
+    "Message",
+    "MSG-069"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-069"
+   ],
+   "to": [
+    "Topic",
+    "payment-routing"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-008"
+   ],
+   "to": [
+    "Message",
+    "MSG-069"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-001"
+   ],
+   "to": [
+    "Message",
+    "MSG-069"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-027"
+   ],
+   "to": [
+    "Message",
+    "MSG-070"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-070"
+   ],
+   "to": [
+    "Topic",
+    "authentication"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-025"
+   ],
+   "to": [
+    "Message",
+    "MSG-070"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-028"
+   ],
+   "to": [
+    "Message",
+    "MSG-070"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-030"
+   ],
+   "to": [
+    "Message",
+    "MSG-070"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Message",
+    "MSG-071"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-071"
+   ],
+   "to": [
+    "Topic",
+    "merchant-onboarding"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-040"
+   ],
+   "to": [
+    "Message",
+    "MSG-071"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-037"
+   ],
+   "to": [
+    "Message",
+    "MSG-071"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-034"
+   ],
+   "to": [
+    "Message",
+    "MSG-071"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-015"
+   ],
+   "to": [
+    "Message",
+    "MSG-072"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-072"
+   ],
+   "to": [
+    "Topic",
+    "ledger-schema"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-013"
+   ],
+   "to": [
+    "Message",
+    "MSG-072"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-009"
+   ],
+   "to": [
+    "Message",
+    "MSG-072"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-025"
+   ],
+   "to": [
+    "Message",
+    "MSG-073"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-073"
+   ],
+   "to": [
+    "Topic",
+    "rate-limiting"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-026"
+   ],
+   "to": [
+    "Message",
+    "MSG-073"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Message",
+    "MSG-073"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Message",
+    "MSG-074"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-074"
+   ],
+   "to": [
+    "Topic",
+    "webhook-delivery"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-037"
+   ],
+   "to": [
+    "Message",
+    "MSG-074"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-015"
+   ],
+   "to": [
+    "Message",
+    "MSG-075"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-075"
+   ],
+   "to": [
+    "Topic",
+    "postgres-migration"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-014"
+   ],
+   "to": [
+    "Message",
+    "MSG-075"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-008"
+   ],
+   "to": [
+    "Message",
+    "MSG-075"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Message",
+    "MSG-076"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-076"
+   ],
+   "to": [
+    "Topic",
+    "hsm-key-rotation"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-029"
+   ],
+   "to": [
+    "Message",
+    "MSG-076"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-027"
+   ],
+   "to": [
+    "Message",
+    "MSG-076"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-030"
+   ],
+   "to": [
+    "Message",
+    "MSG-076"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-038"
+   ],
+   "to": [
+    "Message",
+    "MSG-077"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-077"
+   ],
+   "to": [
+    "Topic",
+    "dashboard-performance"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-035"
+   ],
+   "to": [
+    "Message",
+    "MSG-077"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-037"
+   ],
+   "to": [
+    "Message",
+    "MSG-077"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-040"
+   ],
+   "to": [
+    "Message",
+    "MSG-077"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-011"
+   ],
+   "to": [
+    "Message",
+    "MSG-078"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-078"
+   ],
+   "to": [
+    "Topic",
+    "settlement-reconciliation"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-012"
+   ],
+   "to": [
+    "Message",
+    "MSG-078"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-009"
+   ],
+   "to": [
+    "Message",
+    "MSG-078"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-028"
+   ],
+   "to": [
+    "Message",
+    "MSG-079"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-079"
+   ],
+   "to": [
+    "Topic",
+    "incident-response"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-027"
+   ],
+   "to": [
+    "Message",
+    "MSG-079"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-029"
+   ],
+   "to": [
+    "Message",
+    "MSG-079"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-037"
+   ],
+   "to": [
+    "Message",
+    "MSG-080"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-080"
+   ],
+   "to": [
+    "Topic",
+    "reporting-exports"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-038"
+   ],
+   "to": [
+    "Message",
+    "MSG-080"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-034"
+   ],
+   "to": [
+    "Message",
+    "MSG-080"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-020"
+   ],
+   "to": [
+    "Message",
+    "MSG-081"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-081"
+   ],
+   "to": [
+    "Topic",
+    "fraud-rules"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-018"
+   ],
+   "to": [
+    "Message",
+    "MSG-081"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-016"
+   ],
+   "to": [
+    "Message",
+    "MSG-081"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Message",
+    "MSG-081"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Message",
+    "MSG-082"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-082"
+   ],
+   "to": [
+    "Topic",
+    "notification-queue"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Message",
+    "MSG-082"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Message",
+    "MSG-082"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-005"
+   ],
+   "to": [
+    "Message",
+    "MSG-083"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-083"
+   ],
+   "to": [
+    "Topic",
+    "payment-retries"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-002"
+   ],
+   "to": [
+    "Message",
+    "MSG-083"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-006"
+   ],
+   "to": [
+    "Message",
+    "MSG-083"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-003"
+   ],
+   "to": [
+    "Message",
+    "MSG-083"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-022"
+   ],
+   "to": [
+    "Message",
+    "MSG-084"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-084"
+   ],
+   "to": [
+    "Topic",
+    "risk-scoring"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Message",
+    "MSG-084"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-016"
+   ],
+   "to": [
+    "Message",
+    "MSG-084"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Message",
+    "MSG-085"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-085"
+   ],
+   "to": [
+    "Topic",
+    "notification-templates"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Message",
+    "MSG-085"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-002"
+   ],
+   "to": [
+    "Message",
+    "MSG-086"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-086"
+   ],
+   "to": [
+    "Topic",
+    "idempotency"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Message",
+    "MSG-086"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Message",
+    "MSG-086"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-017"
+   ],
+   "to": [
+    "Message",
+    "MSG-087"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-087"
+   ],
+   "to": [
+    "Topic",
+    "chargebacks"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Message",
+    "MSG-087"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-022"
+   ],
+   "to": [
+    "Message",
+    "MSG-087"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Message",
+    "MSG-088"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-088"
+   ],
+   "to": [
+    "Topic",
+    "email-deliverability"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-013"
+   ],
+   "to": [
+    "Message",
+    "MSG-088"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-012"
+   ],
+   "to": [
+    "Message",
+    "MSG-088"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Message",
+    "MSG-088"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-003"
+   ],
+   "to": [
+    "Message",
+    "MSG-089"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-089"
+   ],
+   "to": [
+    "Topic",
+    "payment-routing"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-020"
+   ],
+   "to": [
+    "Message",
+    "MSG-089"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Message",
+    "MSG-089"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-006"
+   ],
+   "to": [
+    "Message",
+    "MSG-089"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-029"
+   ],
+   "to": [
+    "Message",
+    "MSG-090"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-090"
+   ],
+   "to": [
+    "Topic",
+    "authentication"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-030"
+   ],
+   "to": [
+    "Message",
+    "MSG-090"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-034"
+   ],
+   "to": [
+    "Message",
+    "MSG-091"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-091"
+   ],
+   "to": [
+    "Topic",
+    "merchant-onboarding"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-037"
+   ],
+   "to": [
+    "Message",
+    "MSG-091"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Message",
+    "MSG-091"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-036"
+   ],
+   "to": [
+    "Message",
+    "MSG-091"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-015"
+   ],
+   "to": [
+    "Message",
+    "MSG-092"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-092"
+   ],
+   "to": [
+    "Topic",
+    "ledger-schema"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-009"
+   ],
+   "to": [
+    "Message",
+    "MSG-092"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-010"
+   ],
+   "to": [
+    "Message",
+    "MSG-092"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-025"
+   ],
+   "to": [
+    "Message",
+    "MSG-093"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-093"
+   ],
+   "to": [
+    "Topic",
+    "rate-limiting"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-024"
+   ],
+   "to": [
+    "Message",
+    "MSG-093"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-036"
+   ],
+   "to": [
+    "Message",
+    "MSG-094"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-094"
+   ],
+   "to": [
+    "Topic",
+    "webhook-delivery"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-040"
+   ],
+   "to": [
+    "Message",
+    "MSG-094"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Message",
+    "MSG-094"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-038"
+   ],
+   "to": [
+    "Message",
+    "MSG-094"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-015"
+   ],
+   "to": [
+    "Message",
+    "MSG-095"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-095"
+   ],
+   "to": [
+    "Topic",
+    "postgres-migration"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-013"
+   ],
+   "to": [
+    "Message",
+    "MSG-095"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-012"
+   ],
+   "to": [
+    "Message",
+    "MSG-095"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Message",
+    "MSG-096"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-096"
+   ],
+   "to": [
+    "Topic",
+    "hsm-key-rotation"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-027"
+   ],
+   "to": [
+    "Message",
+    "MSG-096"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Message",
+    "MSG-097"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-097"
+   ],
+   "to": [
+    "Topic",
+    "dashboard-performance"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-036"
+   ],
+   "to": [
+    "Message",
+    "MSG-097"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-038"
+   ],
+   "to": [
+    "Message",
+    "MSG-097"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-011"
+   ],
+   "to": [
+    "Message",
+    "MSG-098"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-098"
+   ],
+   "to": [
+    "Topic",
+    "settlement-reconciliation"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-009"
+   ],
+   "to": [
+    "Message",
+    "MSG-098"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-028"
+   ],
+   "to": [
+    "Message",
+    "MSG-099"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-099"
+   ],
+   "to": [
+    "Topic",
+    "incident-response"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Message",
+    "MSG-099"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-030"
+   ],
+   "to": [
+    "Message",
+    "MSG-099"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-026"
+   ],
+   "to": [
+    "Message",
+    "MSG-099"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Message",
+    "MSG-100"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-100"
+   ],
+   "to": [
+    "Topic",
+    "reporting-exports"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-037"
+   ],
+   "to": [
+    "Message",
+    "MSG-100"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-021"
+   ],
+   "to": [
+    "Message",
+    "MSG-101"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-101"
+   ],
+   "to": [
+    "Topic",
+    "fraud-rules"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-016"
+   ],
+   "to": [
+    "Message",
+    "MSG-101"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-018"
+   ],
+   "to": [
+    "Message",
+    "MSG-101"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-017"
+   ],
+   "to": [
+    "Message",
+    "MSG-101"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Message",
+    "MSG-102"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-102"
+   ],
+   "to": [
+    "Topic",
+    "notification-queue"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Message",
+    "MSG-102"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-005"
+   ],
+   "to": [
+    "Message",
+    "MSG-103"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-103"
+   ],
+   "to": [
+    "Topic",
+    "payment-retries"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-003"
+   ],
+   "to": [
+    "Message",
+    "MSG-103"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-021"
+   ],
+   "to": [
+    "Message",
+    "MSG-104"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-104"
+   ],
+   "to": [
+    "Topic",
+    "risk-scoring"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-020"
+   ],
+   "to": [
+    "Message",
+    "MSG-104"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-022"
+   ],
+   "to": [
+    "Message",
+    "MSG-104"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Message",
+    "MSG-105"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-105"
+   ],
+   "to": [
+    "Topic",
+    "notification-templates"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Message",
+    "MSG-105"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Message",
+    "MSG-105"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-001"
+   ],
+   "to": [
+    "Message",
+    "MSG-106"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-106"
+   ],
+   "to": [
+    "Topic",
+    "idempotency"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-005"
+   ],
+   "to": [
+    "Message",
+    "MSG-106"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-007"
+   ],
+   "to": [
+    "Message",
+    "MSG-106"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-020"
+   ],
+   "to": [
+    "Message",
+    "MSG-107"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-107"
+   ],
+   "to": [
+    "Topic",
+    "chargebacks"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-018"
+   ],
+   "to": [
+    "Message",
+    "MSG-107"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Message",
+    "MSG-108"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-108"
+   ],
+   "to": [
+    "Topic",
+    "email-deliverability"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Message",
+    "MSG-108"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-004"
+   ],
+   "to": [
+    "Message",
+    "MSG-109"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-109"
+   ],
+   "to": [
+    "Topic",
+    "payment-routing"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-008"
+   ],
+   "to": [
+    "Message",
+    "MSG-109"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-026"
+   ],
+   "to": [
+    "Message",
+    "MSG-110"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-110"
+   ],
+   "to": [
+    "Topic",
+    "authentication"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-025"
+   ],
+   "to": [
+    "Message",
+    "MSG-110"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-027"
+   ],
+   "to": [
+    "Message",
+    "MSG-110"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Message",
+    "MSG-111"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-111"
+   ],
+   "to": [
+    "Topic",
+    "merchant-onboarding"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-040"
+   ],
+   "to": [
+    "Message",
+    "MSG-111"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-036"
+   ],
+   "to": [
+    "Message",
+    "MSG-111"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-013"
+   ],
+   "to": [
+    "Message",
+    "MSG-112"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-112"
+   ],
+   "to": [
+    "Topic",
+    "ledger-schema"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-009"
+   ],
+   "to": [
+    "Message",
+    "MSG-112"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Message",
+    "MSG-113"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-113"
+   ],
+   "to": [
+    "Topic",
+    "rate-limiting"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-028"
+   ],
+   "to": [
+    "Message",
+    "MSG-113"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-038"
+   ],
+   "to": [
+    "Message",
+    "MSG-114"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-114"
+   ],
+   "to": [
+    "Topic",
+    "webhook-delivery"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-037"
+   ],
+   "to": [
+    "Message",
+    "MSG-114"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-034"
+   ],
+   "to": [
+    "Message",
+    "MSG-114"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-036"
+   ],
+   "to": [
+    "Message",
+    "MSG-114"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-011"
+   ],
+   "to": [
+    "Message",
+    "MSG-115"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-115"
+   ],
+   "to": [
+    "Topic",
+    "postgres-migration"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-010"
+   ],
+   "to": [
+    "Message",
+    "MSG-115"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Message",
+    "MSG-116"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-116"
+   ],
+   "to": [
+    "Topic",
+    "hsm-key-rotation"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-029"
+   ],
+   "to": [
+    "Message",
+    "MSG-116"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-027"
+   ],
+   "to": [
+    "Message",
+    "MSG-116"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-038"
+   ],
+   "to": [
+    "Message",
+    "MSG-117"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-117"
+   ],
+   "to": [
+    "Topic",
+    "dashboard-performance"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Message",
+    "MSG-117"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-040"
+   ],
+   "to": [
+    "Message",
+    "MSG-117"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-034"
+   ],
+   "to": [
+    "Message",
+    "MSG-117"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-011"
+   ],
+   "to": [
+    "Message",
+    "MSG-118"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-118"
+   ],
+   "to": [
+    "Topic",
+    "settlement-reconciliation"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-022"
+   ],
+   "to": [
+    "Message",
+    "MSG-118"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-014"
+   ],
+   "to": [
+    "Message",
+    "MSG-118"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-015"
+   ],
+   "to": [
+    "Message",
+    "MSG-118"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-025"
+   ],
+   "to": [
+    "Message",
+    "MSG-119"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-119"
+   ],
+   "to": [
+    "Topic",
+    "incident-response"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-026"
+   ],
+   "to": [
+    "Message",
+    "MSG-119"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-027"
+   ],
+   "to": [
+    "Message",
+    "MSG-119"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Message",
+    "MSG-120"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-120"
+   ],
+   "to": [
+    "Topic",
+    "reporting-exports"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-040"
+   ],
+   "to": [
+    "Message",
+    "MSG-120"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-036"
+   ],
+   "to": [
+    "Message",
+    "MSG-120"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-021"
+   ],
+   "to": [
+    "Message",
+    "MSG-121"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-121"
+   ],
+   "to": [
+    "Topic",
+    "fraud-rules"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-020"
+   ],
+   "to": [
+    "Message",
+    "MSG-121"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-016"
+   ],
+   "to": [
+    "Message",
+    "MSG-121"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-022"
+   ],
+   "to": [
+    "Message",
+    "MSG-121"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Message",
+    "MSG-122"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-122"
+   ],
+   "to": [
+    "Topic",
+    "notification-queue"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-006"
+   ],
+   "to": [
+    "Message",
+    "MSG-122"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-005"
+   ],
+   "to": [
+    "Message",
+    "MSG-122"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-004"
+   ],
+   "to": [
+    "Message",
+    "MSG-123"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-123"
+   ],
+   "to": [
+    "Topic",
+    "payment-retries"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-007"
+   ],
+   "to": [
+    "Message",
+    "MSG-123"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-017"
+   ],
+   "to": [
+    "Message",
+    "MSG-124"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-124"
+   ],
+   "to": [
+    "Topic",
+    "risk-scoring"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-021"
+   ],
+   "to": [
+    "Message",
+    "MSG-124"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Message",
+    "MSG-124"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Message",
+    "MSG-125"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-125"
+   ],
+   "to": [
+    "Topic",
+    "notification-templates"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Message",
+    "MSG-125"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Message",
+    "MSG-125"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-008"
+   ],
+   "to": [
+    "Message",
+    "MSG-126"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-126"
+   ],
+   "to": [
+    "Topic",
+    "idempotency"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-003"
+   ],
+   "to": [
+    "Message",
+    "MSG-126"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-007"
+   ],
+   "to": [
+    "Message",
+    "MSG-126"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Message",
+    "MSG-127"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-127"
+   ],
+   "to": [
+    "Topic",
+    "chargebacks"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-020"
+   ],
+   "to": [
+    "Message",
+    "MSG-127"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Message",
+    "MSG-128"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-128"
+   ],
+   "to": [
+    "Topic",
+    "email-deliverability"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Message",
+    "MSG-128"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-004"
+   ],
+   "to": [
+    "Message",
+    "MSG-129"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-129"
+   ],
+   "to": [
+    "Topic",
+    "payment-routing"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-008"
+   ],
+   "to": [
+    "Message",
+    "MSG-129"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-028"
+   ],
+   "to": [
+    "Message",
+    "MSG-130"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-130"
+   ],
+   "to": [
+    "Topic",
+    "authentication"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-026"
+   ],
+   "to": [
+    "Message",
+    "MSG-130"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Message",
+    "MSG-130"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-040"
+   ],
+   "to": [
+    "Message",
+    "MSG-131"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-131"
+   ],
+   "to": [
+    "Topic",
+    "merchant-onboarding"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Message",
+    "MSG-131"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-035"
+   ],
+   "to": [
+    "Message",
+    "MSG-131"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-010"
+   ],
+   "to": [
+    "Message",
+    "MSG-132"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-132"
+   ],
+   "to": [
+    "Topic",
+    "ledger-schema"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-009"
+   ],
+   "to": [
+    "Message",
+    "MSG-132"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-013"
+   ],
+   "to": [
+    "Message",
+    "MSG-132"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-012"
+   ],
+   "to": [
+    "Message",
+    "MSG-132"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-026"
+   ],
+   "to": [
+    "Message",
+    "MSG-133"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-133"
+   ],
+   "to": [
+    "Topic",
+    "rate-limiting"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-025"
+   ],
+   "to": [
+    "Message",
+    "MSG-133"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-028"
+   ],
+   "to": [
+    "Message",
+    "MSG-133"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Message",
+    "MSG-133"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-039"
+   ],
+   "to": [
+    "Message",
+    "MSG-134"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-134"
+   ],
+   "to": [
+    "Topic",
+    "webhook-delivery"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-035"
+   ],
+   "to": [
+    "Message",
+    "MSG-134"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-010"
+   ],
+   "to": [
+    "Message",
+    "MSG-135"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-135"
+   ],
+   "to": [
+    "Topic",
+    "postgres-migration"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-011"
+   ],
+   "to": [
+    "Message",
+    "MSG-135"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-012"
+   ],
+   "to": [
+    "Message",
+    "MSG-135"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Message",
+    "MSG-136"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-136"
+   ],
+   "to": [
+    "Topic",
+    "hsm-key-rotation"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-030"
+   ],
+   "to": [
+    "Message",
+    "MSG-136"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-029"
+   ],
+   "to": [
+    "Message",
+    "MSG-136"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-027"
+   ],
+   "to": [
+    "Message",
+    "MSG-136"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-037"
+   ],
+   "to": [
+    "Message",
+    "MSG-137"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-137"
+   ],
+   "to": [
+    "Topic",
+    "dashboard-performance"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-036"
+   ],
+   "to": [
+    "Message",
+    "MSG-137"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-040"
+   ],
+   "to": [
+    "Message",
+    "MSG-137"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-034"
+   ],
+   "to": [
+    "Message",
+    "MSG-137"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-011"
+   ],
+   "to": [
+    "Message",
+    "MSG-138"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-138"
+   ],
+   "to": [
+    "Topic",
+    "settlement-reconciliation"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-009"
+   ],
+   "to": [
+    "Message",
+    "MSG-138"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-015"
+   ],
+   "to": [
+    "Message",
+    "MSG-138"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Message",
+    "MSG-139"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-139"
+   ],
+   "to": [
+    "Topic",
+    "incident-response"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-029"
+   ],
+   "to": [
+    "Message",
+    "MSG-139"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-037"
+   ],
+   "to": [
+    "Message",
+    "MSG-140"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-140"
+   ],
+   "to": [
+    "Topic",
+    "reporting-exports"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-034"
+   ],
+   "to": [
+    "Message",
+    "MSG-140"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-038"
+   ],
+   "to": [
+    "Message",
+    "MSG-140"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-035"
+   ],
+   "to": [
+    "Message",
+    "MSG-140"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Message",
+    "MSG-141"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-141"
+   ],
+   "to": [
+    "Topic",
+    "fraud-rules"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-016"
+   ],
+   "to": [
+    "Message",
+    "MSG-141"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-018"
+   ],
+   "to": [
+    "Message",
+    "MSG-141"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Message",
+    "MSG-142"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-142"
+   ],
+   "to": [
+    "Topic",
+    "notification-queue"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Message",
+    "MSG-142"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Message",
+    "MSG-142"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-004"
+   ],
+   "to": [
+    "Message",
+    "MSG-143"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-143"
+   ],
+   "to": [
+    "Topic",
+    "payment-retries"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-006"
+   ],
+   "to": [
+    "Message",
+    "MSG-143"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-001"
+   ],
+   "to": [
+    "Message",
+    "MSG-143"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-003"
+   ],
+   "to": [
+    "Message",
+    "MSG-143"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-016"
+   ],
+   "to": [
+    "Message",
+    "MSG-144"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-144"
+   ],
+   "to": [
+    "Topic",
+    "risk-scoring"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-019"
+   ],
+   "to": [
+    "Message",
+    "MSG-144"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-021"
+   ],
+   "to": [
+    "Message",
+    "MSG-144"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-032"
+   ],
+   "to": [
+    "Message",
+    "MSG-145"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-145"
+   ],
+   "to": [
+    "Topic",
+    "notification-templates"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-037"
+   ],
+   "to": [
+    "Message",
+    "MSG-145"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-002"
+   ],
+   "to": [
+    "Message",
+    "MSG-146"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-146"
+   ],
+   "to": [
+    "Topic",
+    "idempotency"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-004"
+   ],
+   "to": [
+    "Message",
+    "MSG-146"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-020"
+   ],
+   "to": [
+    "Message",
+    "MSG-147"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-147"
+   ],
+   "to": [
+    "Topic",
+    "chargebacks"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-022"
+   ],
+   "to": [
+    "Message",
+    "MSG-147"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-031"
+   ],
+   "to": [
+    "Message",
+    "MSG-148"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-148"
+   ],
+   "to": [
+    "Topic",
+    "email-deliverability"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Message",
+    "MSG-148"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-002"
+   ],
+   "to": [
+    "Message",
+    "MSG-149"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-149"
+   ],
+   "to": [
+    "Topic",
+    "payment-routing"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-005"
+   ],
+   "to": [
+    "Message",
+    "MSG-149"
+   ]
+  },
+  {
+   "type": "AUTHORED",
+   "from": [
+    "Person",
+    "PER-023"
+   ],
+   "to": [
+    "Message",
+    "MSG-150"
+   ]
+  },
+  {
+   "type": "ABOUT",
+   "from": [
+    "Message",
+    "MSG-150"
+   ],
+   "to": [
+    "Topic",
+    "authentication"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-028"
+   ],
+   "to": [
+    "Message",
+    "MSG-150"
+   ]
+  },
+  {
+   "type": "BLOCKS",
+   "from": [
+    "Ticket",
+    "TCK-035"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-050"
+   ]
+  },
+  {
+   "type": "BLOCKS",
+   "from": [
+    "Ticket",
+    "TCK-048"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-054"
+   ]
+  },
+  {
+   "type": "BLOCKS",
+   "from": [
+    "Ticket",
+    "TCK-034"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-057"
+   ]
+  },
+  {
+   "type": "BLOCKS",
+   "from": [
+    "Ticket",
+    "TCK-003"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-043"
+   ]
+  },
+  {
+   "type": "BLOCKS",
+   "from": [
+    "Ticket",
+    "TCK-022"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-057"
+   ]
+  },
+  {
+   "type": "BLOCKS",
+   "from": [
+    "Ticket",
+    "TCK-040"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-050"
+   ]
+  },
+  {
+   "type": "BLOCKS",
+   "from": [
+    "Ticket",
+    "TCK-009"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-039"
+   ]
+  },
+  {
+   "type": "BLOCKS",
+   "from": [
+    "Ticket",
+    "TCK-010"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-025"
+   ]
+  },
+  {
+   "type": "BLOCKS",
+   "from": [
+    "Ticket",
+    "TCK-011"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-012"
+   ]
+  },
+  {
+   "type": "BLOCKS",
+   "from": [
+    "Ticket",
+    "TCK-045"
+   ],
+   "to": [
+    "Ticket",
+    "TCK-054"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Message",
+    "MSG-022"
+   ]
+  },
+  {
+   "type": "PARTICIPATED_IN",
+   "from": [
+    "Person",
+    "PER-033"
+   ],
+   "to": [
+    "Message",
+    "MSG-042"
+   ]
+  }
+ ]
+}

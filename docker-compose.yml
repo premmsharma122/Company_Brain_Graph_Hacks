@@ -1,0 +1,26 @@
+services:
+  falkordb:
+    image: falkordb/falkordb:latest
+    ports:
+      - "6379:6379"   # Redis protocol (the Python client)
+      - "3000:3000"   # FalkorDB browser UI
+    volumes:
+      - falkordb_data:/var/lib/falkordb/data
+
+  # Optional: run the API in Docker too  (docker compose --profile api up --build)
+  api:
+    profiles: ["api"]
+    build: .
+    environment:
+      FALKORDB_HOST: falkordb
+      CORS_ORIGINS: http://localhost:5173
+    env_file:
+      - path: .env
+        required: false
+    ports:
+      - "8000:8000"
+    depends_on:
+      - falkordb
+
+volumes:
+  falkordb_data:

@@ -1,0 +1,6 @@
+{
+  "note": "Demo question 7. POST this to /api/ingest after seeding. It reverses D-008 (Kafka->SQS), so D-008 flips to superseded and a new current decision appears.",
+  "author": "Priya Nair",
+  "channel": "#notification-queue",
+  "text": "Decision: we are reversing D-008. Going back to Kafka for the notification queue because SQS fan-out costs too much."
+}
