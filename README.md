@@ -222,4 +222,4 @@ orgmind/
 ## AI-assistance disclosure
 
 Fill in before submitting. Suggested text: "The PRD, project scaffolding, synthetic data generator, Cypher
-queries and API were drafted with Claude (Anthropic) and reviewed, tested and understood by the team."
+queries and API were drafted with Claude (Anthropic) and reviewed, tested and understood by me."
